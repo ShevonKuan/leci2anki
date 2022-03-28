@@ -708,7 +708,7 @@ hue-6-2: #e6c07b
 <h4 id="已经上架的词书链接提取">已经上架的词书链接提取</h4>
 <p><img src="file:///c:\资料库\代码片段\ankidroid词卡制作\leci2anki\image\vocabularylist.jpg" alt=""></p>
 <ul>
-<li>通过抓包可以发现打开词书购买界面时会返回所有词书的下载链接直接通过GET方法可下载为<code>zip</code>格式的压缩包.(详见<a href="'%E6%89%80%E6%9C%89%E5%A4%84%E7%90%86%E4%BB%A3%E7%A0%81%5C%E8%AF%8D%E4%B9%A6%E5%A4%84%E7%90%86%5C%E4%B8%8B%E8%BD%BD%E5%85%A8%E9%83%A8%E8%AF%8D%E4%B9%A6.py'"><code>下载全部词书.py</code></a>)</li>
+<li>通过抓包可以发现打开词书购买界面时会返回所有词书的下载链接直接通过GET方法可下载为<code>zip</code>格式的压缩包.(详见<code>下载全部词书.py</code>)</li>
 <li>这类压缩包密码为5位数字,使用<code>archpr</code>直接爆破,可以解压得到类似于<code>vocabulary_*.db</code>的sqlite数据库.</li>
 <li>数据库中有<code>word</code>表表示<code>wordID</code>和单词之间的对应关系, <code>vocabulary*</code>命名的表为书中一定顺序的单词详细信息,我主要使用了表<code>vocabulary_word_briefdef_mapping</code>来制作单词卡</li>
 <li></li>
@@ -717,7 +717,7 @@ hue-6-2: #e6c07b
 <p><img src="file:///c:\资料库\代码片段\ankidroid词卡制作\leci2anki\image\userdb.jpg" alt=""></p>
 <ul>
 <li>抓包发现打开下载学习记录的页面后会获取这样一个json, 其分别对应不同时间上传的学习记录, 该记录储存再阿里云oss, 其访问token由乐词服务器访问, 向乐词服务器访问的过程中携带了一个本地生成的token, 因此暂时无法获得脱离软件下载个人词库的方法. 这里使用中间人攻击获取乐词下载的个人学习数据, 其格式依然为sqlite数据库.</li>
-<li>个人数据库的相关处理见<a href="'%E6%89%80%E6%9C%89%E5%A4%84%E7%90%86%E4%BB%A3%E7%A0%81%5Cdemo.ipynb'"><code>demo.ipynb</code></a>, 可以从中提取自己的单词学习进度.</li>
+<li>个人数据库的相关处理见<code>demo.ipynb</code>, 可以从中提取自己的单词学习进度.</li>
 </ul>
 <h3 id="2-词卡制作">2. 词卡制作</h3>
 <h4 id="anki相关介绍">Anki相关介绍</h4>
