@@ -1,0 +1,1087 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": {
+        "dataVocabulary": [
+            {
+                "templateType": 1,
+                "activityID": 621,
+                "flag": 0,
+                "activityStatus": 0,
+                "productPrice": "0",
+                "originalPrice": "99",
+                "collagePrice": null,
+                "openReserve": null,
+                "isCollage": 0,
+                "heading": "雅思高效备考之背词避坑指南",
+                "resume": "",
+                "selectionPic": "http://img1.ileci.com/product/pic/20210707130438_ysylkcs.png",
+                "tagType": 3
+            },
+            {
+                "templateType": 1,
+                "activityID": 776,
+                "flag": 0,
+                "activityStatus": 0,
+                "productPrice": "79",
+                "originalPrice": "79",
+                "collagePrice": "59",
+                "openReserve": null,
+                "isCollage": 1,
+                "heading": "2周带刷雅思听力必备场景词9期",
+                "resume": "",
+                "selectionPic": "http://img1.ileci.com/product/pic/20220111175330_cishuxuanzeye.png",
+                "tagType": 0
+            },
+            {
+                "vocabularyId": 5,
+                "targetId": 5,
+                "name": "雅思全部词汇",
+                "simpleName": "筛选全部雅思必考词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及拓展内容！",
+                "authorId": 1,
+                "description": "筛选全部雅思必考词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及拓展内容！",
+                "description2": "适合全面掌握应考词汇",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628100955_ALL.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/100persent_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 6312733,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GU3TKNZRMNYUQ4KXJZ2XARCSJBYHEYTBOJWTGRKTG5EU6VCUMFEHKY2GM4ZVSWC2F53TS4C2NZMGOPJWGM3DEMA=.dat?uid=10410209&vocabularyId=5&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 6311325,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/HAYTCMBUG5WGM6CCKFLE6STYLJNGO3TPF5IGMM3QJVMUWK3QJFMHOWRTLFITGOLLMJCWYU3JI55ECPJZGAYDMMI=.dat?uid=10410209&vocabularyId=5&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 6311506,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GYZDKMZZI5HWUS2KN5VFK2CYJR5HSSTLNA3FKUTUJQ3ES6LHN5ZHQ3JUKEXUGL22IFVDQ6TQGVZUKPJTGUYDINA=.dat?uid=10410209&vocabularyId=5&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -10,
+                "wordSize": 3612,
+                "defaultSound": "US",
+                "fileSize": 208885,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您切换到核心词汇背诵。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GM3TAMRUMIVU63TUIRCHSTLTGJCTSNKBIVDVGZJVN5SGM6BXNZCXSR3RJ5AXS6KNKVYXGNDFJYXWGPJVGQYTOMQ=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 322,
+                "targetId": 5,
+                "name": "雅思绿宝书乱序版",
+                "simpleName": "俞敏洪倾囊相授之作\r\n\r\n【词书内容】\r\n1. 收录原书全部核心词和拓展词汇（同义词、反义词、派生词）\r\n2. 收录原书全部记忆法、例句、搭配等\r\n\r\n【词书特色】\r\n1.“词根+联想”，记忆法科学有效；\r\n2. 乱序记词，适应多元需求；\r\n3. 原汁原味例句，模拟考试语境；",
+                "authorId": 1,
+                "description": "俞敏洪倾囊相授之作\r\n\r\n【词书内容】\r\n1. 收录原书全部核心词和拓展词汇（同义词、反义词、派生词）\r\n2. 收录原书全部记忆法、例句、搭配等\r\n\r\n【词书特色】\r\n1.“词根+联想”，记忆法科学有效；\r\n2. 乱序记词，适应多元需求；\r\n3. 原汁原味例句，模拟考试语境；",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190924133945_20181213111727_iest.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3933251,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HEZDSOBVOZLDAMLINQYVUZJTGNEVOULVOZIS6SKKG5KVG42JMZLXGRLPKVDU25SEI5VWG6K2JN3DAPJXGU2TQOI=.dat?uid=10410209&vocabularyId=322&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3932219,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GY4TKMJTGAVVSZCIHFHFUQKVKRHVMS2COQ4EG5ZYMJETGVCYJUZUQ5SQO4VTA53IMIVUC2KDFNYUSPJUG42DAMA=.dat?uid=10410209&vocabularyId=322&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 3932473,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/HEZDGNZZNBJGM3KDOQVXE5CIFNSES2KCOFZVSOJXJRCTQ6DLJNSTQSCRGBWHQUSWIFSG6RLKLFRVKPJSGU4TINY=.dat?uid=10410209&vocabularyId=322&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -9,
+                "wordSize": 3608,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】雅思绿宝书乱序版",
+                "productId": 613,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75596268100068005360",
+                "isEntityBook": "1",
+                "entityBookProductId": 3076,
+                "entityBookProductName": "【实体书版】雅思绿宝书乱序版",
+                "entityBookSellPrice": "53",
+                "entityBookOrderState": null,
+                "bookStartPrice": "86",
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 487,
+                "targetId": 5,
+                "name": "雅思核心词汇精讲精练：精华版",
+                "simpleName": "雅思一线教师宋鹏昊力作，俞敏洪老师、何钢老师、孙涛老师三位业界大咖鼎力推荐。\r\n\r\n基于剑桥雅思真题集和各类主流试题集，建立试题“语料库“，科学筛选1200个雅思高频词。",
+                "authorId": 1,
+                "description": "雅思一线教师宋鹏昊力作，俞敏洪老师、何钢老师、孙涛老师三位业界大咖鼎力推荐。\r\n\r\n基于剑桥雅思真题集和各类主流试题集，建立试题“语料库“，科学筛选1200个雅思高频词。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20181213111807_雅思核心词汇精讲精练：精华版.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1711538,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE3TCOBRIFXDMST2IJXXOUKSLFQUGTTCGZZDIZZVLBRVERCMIEZUG2KFNNSUE3BQORGFOQLFNBSDIPJYGE4TQNI=.dat?uid=10410209&vocabularyId=487&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 1711007,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GM2DMMBQIFQUK6CTKNDHAZTBOFIS6SLLKFEEMUJVNBSUKUKPGNWGU53TOMZXMRKCNFDXS53CJM4DQPJVGA2TMMQ=.dat?uid=10410209&vocabularyId=487&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 1711027,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GEYTGNJUF4ZU2TCSGYYGKSRUKVGWM3DONIZHGVKUNRGDSRBXMZFUE3CBLA3E2STPOJMTGVCLKRNFCPJXGQZTQNA=.dat?uid=10410209&vocabularyId=487&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -8,
+                "wordSize": 1200,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "29.9",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】雅思核心词汇精讲精练：精华版",
+                "productId": 877,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536627200045002800",
+                "isEntityBook": "1",
+                "entityBookProductId": 3078,
+                "entityBookProductName": "【实体书版】雅思核心词汇精讲精练：精华版",
+                "entityBookSellPrice": "36",
+                "entityBookOrderState": null,
+                "bookStartPrice": "63",
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 593,
+                "targetId": 5,
+                "name": "雅思红宝书：加强版",
+                "simpleName": "俞敏洪老师经典力作，持续畅销，完整收录雅思常考词汇，“词根+联想”记忆科学实用，“零基础”备考强推！\r\n\r\n【词书内容】\r\n收录4500个核心词及1200个核心词组，补充大量同义词、反义词、派生词、实用搭配，总计约8000词汇量。\r\n\r\n【词书特色】\r\n1. 本书全部单词正序编排，重点词汇“一网打尽”\r\n2. “词根+联想”，词汇障碍一扫而光\r\n原汁原味例句，模拟考试语境\r\n3. 释、搭、派、同、反，轻松搞笑记忆单词",
+                "authorId": 1,
+                "description": "俞敏洪老师经典力作，持续畅销，完整收录雅思常考词汇，“词根+联想”记忆科学实用，“零基础”备考强推！\r\n\r\n【词书内容】\r\n收录4500个核心词及1200个核心词组，补充大量同义词、反义词、派生词、实用搭配，总计约8000词汇量。\r\n\r\n【词书特色】\r\n1. 本书全部单词正序编排，重点词汇“一网打尽”\r\n2. “词根+联想”，词汇障碍一扫而光\r\n原汁原味例句，模拟考试语境\r\n3. 释、搭、派、同、反，轻松搞笑记忆单词",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190125111807__20190123183702.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4665347,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ2DCMRUJV5FE5CBON2USWKDOBQWYSSMPFYFQTCDGJCHMMKYHFYWEMJVNI3GQRLWIVTXM2JLPI3TIPJZHE2DAMA=.dat?uid=10410209&vocabularyId=593&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 4666212,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/HEZTEMJZKRHTC52VOJXFCNLVGJRFI3DIJZXGCNZYOUZE4OCJLF2CWRTCGZXVEMCKOU2XUYTIGRCVSPJZGQYTKNQ=.dat?uid=10410209&vocabularyId=593&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 4667741,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GA4TQNZQLFZESMBQHAXTIOBYIF3UWV2KIIZDSUJZJ4ZGUWLOGNEVMNRSMVRFGM3DPBXGIWLMJRHECPJWGI3TKOA=.dat?uid=10410209&vocabularyId=593&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -7,
+                "wordSize": 5984,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@浙江教育出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】雅思红宝书：加强版",
+                "productId": 1352,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536813300068005360",
+                "isEntityBook": "1",
+                "entityBookProductId": 3075,
+                "entityBookProductName": "【实体书版】雅思红宝书：加强版",
+                "entityBookSellPrice": "45",
+                "entityBookOrderState": null,
+                "bookStartPrice": "86",
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1080,
+                "targetId": 5,
+                "name": "雅思机经词汇大全",
+                "simpleName": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n",
+                "authorId": 1,
+                "description": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210813104024_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3870230,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ3DAMJRIZHU2ZZXGFGEWV3NIFKXS6CQNRKG6ZDTFMZHGVKNONHVQV2WHFSTOWDIGNVVOM3DJM4TIPJTGEYDEOA=.dat?uid=10410209&vocabularyId=1080&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -7,
+                "wordSize": 3929,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@清华大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "89",
+                "sellPrice": "58",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】雅思机经词汇大全",
+                "productId": 3159,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "雅思机经词汇大全",
+                "isEntityBook": "1",
+                "entityBookProductId": 3163,
+                "entityBookProductName": "【实体书版】雅思机经词汇大全",
+                "entityBookSellPrice": "89",
+                "entityBookOrderState": null,
+                "bookStartPrice": "99",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 25,
+                "targetId": 5,
+                "name": "雅思核心词汇",
+                "simpleName": "精选雅思真题核心词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及同根词等拓展内容！",
+                "authorId": 1,
+                "description": "精选雅思真题核心词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及同根词等拓展内容！",
+                "description2": "方便学生高效学习",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628101115_hexin.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/starpart_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 2187760,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GIZDGMRZONWWK42BMN5EWWLPNBRESVKIPFDHSNZVLF4XSNJPOZREIUBTKZUHI2BXIFSU6MBYOFUWWPJZGEZDKNI=.dat?uid=10410209&vocabularyId=25&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 2187791,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GEZDCNZXLFJUOSCCJVREKOBPNA3TC3LCONSGMUSJJVNHQRBTFNIDAZKTIIYHA2KMG42ECU3OONTDQPJZGU2DCMI=.dat?uid=10410209&vocabularyId=25&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 2188394,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GMYDGMZZPI4GINTSIVVGQWCCMJ2TOMTLM52CWZLTFNVXI5TVG5MGGYTQKVTXIQ2BOI3UUSKIOZDHOPJVHE3TSMA=.dat?uid=10410209&vocabularyId=25&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -6,
+                "wordSize": 948,
+                "defaultSound": "US",
+                "fileSize": 55575,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/HE2DAMJUKRCWYK3QPJ4UQOCYMZSGUZSMJJEWW3RUJ5TXIR3IJFIUM32SONHCW5JXKJLFCLZZGJMU2PJXGI3DOOA=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 99,
+                "targetId": 5,
+                "name": "雅思必备高频词",
+                "simpleName": "根据近年雅思考试真题，精选768个高频必考词汇",
+                "authorId": 1,
+                "description": "根据近年雅思考试真题，精选768个高频必考词汇",
+                "description2": "根据近年来雅思考试真题，分析单词考频，精选768个必考词汇。",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628101141_bibei.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/100persent_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 1852954,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/HE4TKOJXJFNC6SDPGNBGOODHIVRHCN2DKJWU6RBRKZHTM2TTGBEECQJROZJEQOBLKN2DETDKNNSTAPJYHEYTEOA=.dat?uid=10410209&vocabularyId=99&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 1853062,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GE2TKNJRGQ3GI53NGBZDQ6SWGNZWOU3ZJZFUC5TJNNYUITZRKNDHSSRZPF3DCWDYOVRVMM3YKRRTQPJYG4YDMOI=.dat?uid=10410209&vocabularyId=99&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 1853499,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/HE2DKMZXNNBXOSSGNJYVKK3MNBSUC6RXLEVTM3CZGVBFKVZWJNSUUWCYOJLW2NJRNRXU2MTYO44GWPJYGQZTKMI=.dat?uid=10410209&vocabularyId=99&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -6,
+                "wordSize": 768,
+                "defaultSound": "US",
+                "fileSize": 43993,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GA3TMMJRNNZFK2DBKZRXSM3DIU2UI43QNRLVKWKRIU4XCWKXI5JGGUBWIJLXO4TJNNXXQ5JXJ5ZDAPJUGUYDQOA=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 811,
+                "targetId": 5,
+                "name": "雅思核心词汇精讲精练：分级版",
+                "simpleName": "雅思一线教师宋鹏昊力作，基于百万词的雅思真题语料库，精选2600核心词，从扩展词、真题考法等角度拓展约10000词汇。\r\n\r\n\r\n\r\n【词库内容】在进行《雅思核心词汇精讲精练：分级版》的选词工作时，作者首先对剑桥雅思发布的真题集和各类主流试题集进行了整理和分析，用到了国内外几乎所有大家能够见到的雅思相关素材，建立了大约100万词的试题“语料库”。这个库虽然小，但是“非常雅思”。在对语料库中的单词进行归类和整理后，筛选出了雅思核心高频考词，并将其分为两个版本，一个是包含了2600个词条、根据难度分级的版本，也就是这本“分级版”，另一个是包含了1200个词条的“精华版”。\r\n\r\n【词库特色】\r\n1.语境学习：达到较好学习效果\r\n2.常见用法：常见搭配以及不同语境下的用法助力更好学习\r\n3.同/反义词：应对考试中常考的同义替换\r\n4.扩展和派生词：了解单词变体，扩充词汇量\r\n5.真题重现：直接呈现真题中出现的情况和用法，更好地衔接词汇学习和真题备考",
+                "authorId": 1,
+                "description": "雅思一线教师宋鹏昊力作，基于百万词的雅思真题语料库，精选2600核心词，从扩展词、真题考法等角度拓展约10000词汇。\r\n\r\n\r\n\r\n【词库内容】在进行《雅思核心词汇精讲精练：分级版》的选词工作时，作者首先对剑桥雅思发布的真题集和各类主流试题集进行了整理和分析，用到了国内外几乎所有大家能够见到的雅思相关素材，建立了大约100万词的试题“语料库”。这个库虽然小，但是“非常雅思”。在对语料库中的单词进行归类和整理后，筛选出了雅思核心高频考词，并将其分为两个版本，一个是包含了2600个词条、根据难度分级的版本，也就是这本“分级版”，另一个是包含了1200个词条的“精华版”。\r\n\r\n【词库特色】\r\n1.语境学习：达到较好学习效果\r\n2.常见用法：常见搭配以及不同语境下的用法助力更好学习\r\n3.同/反义词：应对考试中常考的同义替换\r\n4.扩展和派生词：了解单词变体，扩充词汇量\r\n5.真题重现：直接呈现真题中出现的情况和用法，更好地衔接词汇学习和真题备考",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200409163438_level.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3159547,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GM2TMOBRNVGVUTBPOVRHC2LNMRKXK3LHMJUGUNKONF3EY2LBKVKTAMDZINREISDEIFHG4MJRIRKECPJQGA2DKMI=.dat?uid=10410209&vocabularyId=811&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -4,
+                "wordSize": 2595,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "29.9",
+                "sellPrice": "25",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】雅思核心词汇精讲精练：分级版",
+                "productId": 1907,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536813700058004280",
+                "isEntityBook": "1",
+                "entityBookProductId": 3077,
+                "entityBookProductName": "【实体书版】雅思核心词汇精讲精练：分级版",
+                "entityBookSellPrice": "42",
+                "entityBookOrderState": null,
+                "bookStartPrice": "83",
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 618,
+                "targetId": 5,
+                "name": "雅思词汇胜经",
+                "simpleName": "孙涛、梅晗联合编著，备考畅销书《雅思词汇胜经》，年下载量1W+，重点呈现6分和7分词汇\r\n\r\n【词书内容】\r\n根据真实的雅思语料库，从雅思真题、官方指南和各种备考资料中精选词汇，根据雅思评分标准和作者多年雅思教学实践将词汇按分数级别分类，重点呈现6分和7分词汇，词汇识记循序渐进。\r\n\r\n【词书特点】\r\n1. 强调“用出来”：针对雅思听、说、读、写采用不同的词汇复习方法，融跟读、背诵、例句记忆于一体。\r\n2. 释义精准：每个词条都配以中英文双解定义，确保词义注释准确性。\r\n3. 拓展记忆：词汇辅以同义、近义词、反义词，帮助学员拓展词汇记忆。\r\n4. 高效复习：本书重点呈现6分和7分词                                                   ",
+                "authorId": 1,
+                "description": "孙涛、梅晗联合编著，备考畅销书《雅思词汇胜经》，年下载量1W+，重点呈现6分和7分词汇\r\n\r\n【词书内容】\r\n根据真实的雅思语料库，从雅思真题、官方指南和各种备考资料中精选词汇，根据雅思评分标准和作者多年雅思教学实践将词汇按分数级别分类，重点呈现6分和7分词汇，词汇识记循序渐进。\r\n\r\n【词书特点】\r\n1. 强调“用出来”：针对雅思听、说、读、写采用不同的词汇复习方法，融跟读、背诵、例句记忆于一体。\r\n2. 释义精准：每个词条都配以中英文双解定义，确保词义注释准确性。\r\n3. 拓展记忆：词汇辅以同义、近义词、反义词，帮助学员拓展词汇记忆。\r\n4. 高效复习：本书重点呈现6分和7分词                                                   ",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190508141108_雅思词汇胜经封面.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3416846,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GY3TAOBQKBRVSZRZOVYG23KCJMYDM4LZIV3GK52ZHA3WUUDDGRZFSQLQLFSUERRPOJXTCRCJGFAW6PJQGY2DAMA=.dat?uid=10410209&vocabularyId=618&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3416023,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/HAZDANRUIV2HQM3VKU4XQ4RVJJNGSWLYKMZXE6SUNI3WQUCCN5BFGWBXKRHVAWLCIRKDQ2SUHFAWOPJSGY4DMOI=.dat?uid=10410209&vocabularyId=618&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 3417259,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GU3TCMJQMNDGYKZRLBUXA5TJNIYUETZUOJKTMSZVOJGU6MZROIYUCWDHIJJU2TDQPBTHIQRZKFEUKPJTGUZTGMQ=.dat?uid=10410209&vocabularyId=618&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -3,
+                "wordSize": 2820,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "32",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】雅思词汇胜经",
+                "productId": 1438,
+                "templateType": 0,
+                "tianmao": "https://detail.m.tmall.com/item.htm?spm=a220z.1000880.0.0.oQbTcu&id=542126867371",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536470700055004080",
+                "isEntityBook": "1",
+                "entityBookProductId": 3074,
+                "entityBookProductName": "【实体书版】雅思词汇胜经",
+                "entityBookSellPrice": "37",
+                "entityBookOrderState": null,
+                "bookStartPrice": "67",
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 575,
+                "targetId": 5,
+                "name": "雅思绿宝书乱序便携版",
+                "simpleName": "俞敏洪老师经典力作，《雅思词汇词根+联想记忆法：乱序便携版》\r\n\r\n【词书内容】\r\n1. 收录约4500个核心词汇，并给出一些重点词汇的同义词、反义词和派生词，共收录约6000个常用单词。所有单词采取乱序编排，打破单词常规记忆模式。",
+                "authorId": 1,
+                "description": "俞敏洪老师经典力作，《雅思词汇词根+联想记忆法：乱序便携版》\r\n\r\n【词书内容】\r\n1. 收录约4500个核心词汇，并给出一些重点词汇的同义词、反义词和派生词，共收录约6000个常用单词。所有单词采取乱序编排，打破单词常规记忆模式。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180612123436_yasiluanxubianxie.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3085349,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GEZDENBZHBLWSUSUKRTWM2CQIJKG2RBWIZDEWYKOM43UGTLQIFGTONSNIJKEW5BTJJIHEMZPOJGEKPJUGEYTEMY=.dat?uid=10410209&vocabularyId=575&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3085391,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/G43DEMJROVGXC6BYGBZE4SLNHAYGU5CFM5JGEWBPNFMXQ5THJMVVM6SQOFJG4ZSHJFQWO6LZKUZWGPJXGU4DEMY=.dat?uid=10410209&vocabularyId=575&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -2,
+                "wordSize": 3612,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 1,
+                "productName": "【电子书版】雅思绿宝书乱序便携版",
+                "productId": 1323,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75110420100028004000",
+                "isEntityBook": "1",
+                "entityBookProductId": 3079,
+                "entityBookProductName": "【实体书版】雅思绿宝书乱序便携版",
+                "entityBookSellPrice": "23",
+                "entityBookOrderState": null,
+                "bookStartPrice": "34",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1113,
+                "targetId": 5,
+                "name": "雅思听力真题场景词汇",
+                "simpleName": "《雅思听力真题场景词汇》由新东方名师宋鹏昊、齐小霞联袂呈现，两位作者均在雅思教学和研发领域深耕十年以上，经验丰富，熟知学生的主要痛点，完全基于学生需求编写本书。为了让学习内容更具针对性，在编写过程中，对超过200场真实雅思考试的考点词汇进行了归类与分析，精选出对考生最有用的场景词汇，以科学的方法进行编辑，以保证对学生而言具备更强的针对性。\r\n\r\n雅思听力的所有题目都是在特定语境下对语言能力进行考查，这就意味着，什么样的语境决定了音频中会出现什么样的信息，而这些信息决定了会出现什么样的题目。在实际考试中，场景词汇的主要作用有两个，一是帮助直接答题，因为最后选择的选项或者填入的答案往往就是重要的场景词，因此学生在这里学的东西和考试中要回答的东西本身就是一致的，这会很大程度上提升学习效率。另一个作用是帮助构建场景和激活大脑，当考生在听力中听到三五个场景词汇后，大脑会自动构建这一场景，并且同时激活与之相关的场景词汇，产生“预期效应”，这对快速答题是非常重要的，而这种随着听力内容的出现不断产生“预期”并随后续出现的内容不断验证和满足预期的过程，也是对听力能力的实质性锻炼。\r\n\r\n总之，本书选取对学生备考非常有用的角度切入，经过精心设计，呈现出这些内容，希望考生可以在考前反复学习，并且完全掌握这些词汇，以在考试中获得满意的分数。",
+                "authorId": 1,
+                "description": "《雅思听力真题场景词汇》由新东方名师宋鹏昊、齐小霞联袂呈现，两位作者均在雅思教学和研发领域深耕十年以上，经验丰富，熟知学生的主要痛点，完全基于学生需求编写本书。为了让学习内容更具针对性，在编写过程中，对超过200场真实雅思考试的考点词汇进行了归类与分析，精选出对考生最有用的场景词汇，以科学的方法进行编辑，以保证对学生而言具备更强的针对性。\r\n\r\n雅思听力的所有题目都是在特定语境下对语言能力进行考查，这就意味着，什么样的语境决定了音频中会出现什么样的信息，而这些信息决定了会出现什么样的题目。在实际考试中，场景词汇的主要作用有两个，一是帮助直接答题，因为最后选择的选项或者填入的答案往往就是重要的场景词，因此学生在这里学的东西和考试中要回答的东西本身就是一致的，这会很大程度上提升学习效率。另一个作用是帮助构建场景和激活大脑，当考生在听力中听到三五个场景词汇后，大脑会自动构建这一场景，并且同时激活与之相关的场景词汇，产生“预期效应”，这对快速答题是非常重要的，而这种随着听力内容的出现不断产生“预期”并随后续出现的内容不断验证和满足预期的过程，也是对听力能力的实质性锻炼。\r\n\r\n总之，本书选取对学生备考非常有用的角度切入，经过精心设计，呈现出这些内容，希望考生可以在考前反复学习，并且完全掌握这些词汇，以在考试中获得满意的分数。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211026182527_20211026182433.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 953913,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE2TCOJYJFGWM4KYF5MFUVCOIZ2UYS2WMEZGG4SBIJBFASDPGVYFAVRTNRNDMNKHLFFHOQ2DIF3E2PJVHEZTIMQ=.dat?uid=10410209&vocabularyId=1113&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -2,
+                "wordSize": 1344,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "雅思听力真题场景词汇",
+                "productId": 3365,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 608,
+                "targetId": 5,
+                "name": "新东方·词以类记：IELTS词汇",
+                "simpleName": "雅思名师张红岩经典佳作，雅思考生人手一本的实用词汇书。\r\n\r\n【词书内容】\r\n1.收录原书全部词汇、释义、记忆法、及经典例句，讲解重点突出\r\n2.雅思最新词汇，覆盖听、说、读、写四大部分，帮助考生深入理解，提高备考效率。\r\n\r\n【词书特色】\r\n1.将词汇按学科和意群两个标准分类，符合记忆规律，助力考生高效学习。\r\n2.配有源自国外优秀字典例句，原汁原味，利于阅读、写作\r\n3.全书采用乱序编排，单词背诵更加灵活，雅思备考更加从容。\r\n4.雅思考生人手一本的经典词汇书，核心词汇，分类记忆，让你的出国梦想起航！\r\n",
+                "authorId": 1,
+                "description": "雅思名师张红岩经典佳作，雅思考生人手一本的实用词汇书。\r\n\r\n【词书内容】\r\n1.收录原书全部词汇、释义、记忆法、及经典例句，讲解重点突出\r\n2.雅思最新词汇，覆盖听、说、读、写四大部分，帮助考生深入理解，提高备考效率。\r\n\r\n【词书特色】\r\n1.将词汇按学科和意群两个标准分类，符合记忆规律，助力考生高效学习。\r\n2.配有源自国外优秀字典例句，原汁原味，利于阅读、写作\r\n3.全书采用乱序编排，单词背诵更加灵活，雅思备考更加从容。\r\n4.雅思考生人手一本的经典词汇书，核心词汇，分类记忆，让你的出国梦想起航！\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190321093154_IELTSciyileiji.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2691662,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ3DOMRSKA4UEUKZK5JTC5SCK5RFG43DIY4GORKXGI3GISKGKZUEGVJXJRNGCSSQIN5GGQ3MLBHVSPJTGYZTIMQ=.dat?uid=10410209&vocabularyId=608&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -1,
+                "wordSize": 3899,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@浙江教育出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "29.9",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】新东方·词以类记：IELTS词汇",
+                "productId": 1411,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536929200045003800",
+                "isEntityBook": "1",
+                "entityBookProductId": 3080,
+                "entityBookProductName": "【实体书版】新东方·词以类记：IELTS词汇",
+                "entityBookSellPrice": "35",
+                "entityBookOrderState": null,
+                "bookStartPrice": "57",
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 979,
+                "targetId": 5,
+                "name": "十天记牢雅思听力必背场景词",
+                "simpleName": "新东方雅思名师团队编著\r\n\r\n【词书内容】\r\n1. 词条筛选自近五年听力考试真题\r\n2. 按照13个高频对话场景和必考讲座学科分类\r\n3. 单词匹配高频考点释义、例句等\r\n",
+                "authorId": 1,
+                "description": "新东方雅思名师团队编著\r\n\r\n【词书内容】\r\n1. 词条筛选自近五年听力考试真题\r\n2. 按照13个高频对话场景和必考讲座学科分类\r\n3. 单词匹配高频考点释义、例句等\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20201027163610_ieltslistening.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 535235,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GE4DEOBWJVIVG6CLKVCFG4KZMFCEQ2ZRNBDWGMCGNJYEUL3GIJJUQTSYJU4TAZ2XJUYG6WDMJJMVCPJTGIZDIMA=.dat?uid=10410209&vocabularyId=979&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 0,
+                "wordSize": 745,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "十天记牢雅思听力必背场景词",
+                "productId": 2893,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1020,
+                "targetId": 5,
+                "name": "雅思机经听力词汇",
+                "simpleName": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n\r\n注：本书只包含听力部分",
+                "authorId": 1,
+                "description": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n\r\n注：本书只包含听力部分",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210322143445_tingli.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1070588,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ2DCOBXPJZXGL3UI43G4L2IMVCXIMSLKE3FURCIME3XEQ3XLBXGWWBRK5NGS4RLIJ2DO5TQOE2WOPJUG44DANY=.dat?uid=10410209&vocabularyId=1020&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 1,
+                "wordSize": 1169,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@清华大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "雅思机经听力词汇",
+                "productId": 2743,
+                "templateType": 0,
+                "tianmao": "https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.3aad2ed4q7YKKZ&id=632589436986&user_id=1614846122&cat_id=2&is_b=1&rn=c74171a6362e5e69c05e582154a1bc61",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1022,
+                "targetId": 5,
+                "name": "雅思机经口语词汇",
+                "simpleName": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n\r\n注：本书只包含口语部分",
+                "authorId": 1,
+                "description": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n\r\n注：本书只包含口语部分",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210323103240_kouyu.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1791671,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HA4DANRTJNSVOV2MOB2CWKZYMRDFERTSJ5KGWR2ZHBVVERDQPFCFM3TKGRHTG2ZLJBZGUN2MJ5ZTAPJUGEYTAMA=.dat?uid=10410209&vocabularyId=1022&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 2,
+                "wordSize": 2204,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@清华大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "28",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "雅思机经口语词汇",
+                "productId": 2747,
+                "templateType": 0,
+                "tianmao": "https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.3aad2ed4q7YKKZ&id=632589436986&user_id=1614846122&cat_id=2&is_b=1&rn=c74171a6362e5e69c05e582154a1bc61",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1021,
+                "targetId": 5,
+                "name": "雅思机经写作和阅读词汇",
+                "simpleName": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n\r\n注：本书只包含写作和阅读部分",
+                "authorId": 1,
+                "description": "新东方雅思名师孟繁飞携手清华大学出版社联合出版！\r\n\r\n作者基于多年实战经验，精心总结编写，配合强效记忆方式，英音词汇朗读，助力雅思考试！\r\n\r\n【词书内容】\r\n1. 词书按照口语、听力、写作、阅读四项分类。\r\n2. 口语按照人物、事件、地点、物品来分类。\r\n3. 听力按照学校场景、学术场景、旅游景点、课外活动、租房场景、工作场景、购物场景、医疗场景来分类。\r\n4. 写作按照小作文和大作文来分类。\r\n5. 阅读按照熟词僻意考点、名词、动词、连接词、形容词、副词来分类。\r\n\r\n【词书特色】\r\n1. 全：听说读写四科考点词一网打尽\r\n2. 新：与时俱进，包含最新口语写作话题词汇\r\n3. 精：必备词一个不少，非考点词一个不要\r\n4. 炼：原汁原味剑桥真题例句，完整还原考点\r\n5. 快：惊艳备考神器，助你节约一半备考时间\r\n6. 准：按照考频直击考点，告别背词无从下手\r\n\r\n注：本书只包含写作和阅读部分",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210322143302_xiezuo.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1299988,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GMZDEMZQPE2XUNTUG5XGKWSOKBIUKYTUOZIFUUZSMJRHKMS2J5UXKQJUKF3XEZLZLIZUGT3FIVSESPJSGIZDANQ=.dat?uid=10410209&vocabularyId=1021&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 3,
+                "wordSize": 1004,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@清华大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "雅思机经写作和阅读词汇",
+                "productId": 2742,
+                "templateType": 0,
+                "tianmao": "https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.3aad2ed4q7YKKZ&id=632589436986&user_id=1614846122&cat_id=2&is_b=1&rn=c74171a6362e5e69c05e582154a1bc61",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            }
+        ],
+        "tagDes": "",
+        "androidgroupkey": "",
+        "prompt": "",
+        "iosgroupkey": ""
+    },
+    "temp": 0
+}

@@ -1,0 +1,970 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": {
+        "dataVocabulary": [
+            {
+                "templateType": 1,
+                "activityID": 774,
+                "flag": 0,
+                "activityStatus": 0,
+                "productPrice": "69",
+                "originalPrice": "99",
+                "collagePrice": "49",
+                "openReserve": null,
+                "isCollage": 1,
+                "heading": "22年王江涛六级词汇对赌营5期",
+                "resume": "",
+                "selectionPic": "http://img1.ileci.com/product/pic/20200514204326_9496f74bbd1c2281d523e17f92bafc6.png",
+                "tagType": 0
+            },
+            {
+                "vocabularyId": 543,
+                "targetId": 7,
+                "name": "六级真题核心词汇",
+                "simpleName": "【词书内容】\r\n收录近1500个真题核心词汇、1400个真题例句、1600个普通例句、500个考点，覆盖六级核心词汇和核心词组。\r\n\r\n【词书特色】\r\n1. 收词科学。根据近年来的六级考试真题，强调应试学习的事半功倍，以考频维度列出高频核心词汇。\r\n2. 海量真题例句。明确单词在考试中的用法，轻松掌握单词释义。\r\n3. 精选记忆法。词根记忆+联想记忆，一步解决单词记不住的问题。\r\n4. 精选翻译考点词组。收录真题翻译考点词组，精准掌握地道表达。",
+                "authorId": 1,
+                "description": "【词书内容】\r\n收录近1500个真题核心词汇、1400个真题例句、1600个普通例句、500个考点，覆盖六级核心词汇和核心词组。\r\n\r\n【词书特色】\r\n1. 收词科学。根据近年来的六级考试真题，强调应试学习的事半功倍，以考频维度列出高频核心词汇。\r\n2. 海量真题例句。明确单词在考试中的用法，轻松掌握单词释义。\r\n3. 精选记忆法。词根记忆+联想记忆，一步解决单词记不住的问题。\r\n4. 精选翻译考点词组。收录真题翻译考点词组，精准掌握地道表达。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20191126142236_cen.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2551808,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GM2TINZUPFRG2WCKJZMHKODUIU4DMV2IJU2WO42SJZ4FKK3PF5BFEQ3IIM2GSWDNOVHDG3KQLJWU2PJWHAYTOMY=.dat?uid=10410209&vocabularyId=543&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 2552654,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GMYTMOJTNN3CW6BWNJ4FM6LIJAZXCTCKG55EMQSBKZSXMUTDLBUS63DOMYYUQOLUOFAWIR2BJN2WGPJQGYYDOMI=.dat?uid=10410209&vocabularyId=543&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "免费试用",
+                        "labelCode": 20
+                    }
+                ],
+                "ordinal": -20,
+                "wordSize": 1586,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314173653_20220311005708_21.png"
+                ]
+            },
+            {
+                "vocabularyId": 414,
+                "targetId": 7,
+                "name": "十天搞定六级词汇：便携版",
+                "simpleName": "人气教师王江涛、王妙然联手力作。\r\n\r\n【词书内容】\r\n1. 选取近五年六级真题中出现过的核心词汇，列出真题出现的考点搭配和重要用法，提供最常见、最易考的义项，重点突出。\r\n2. 讲解高效实用的记忆方法，如：词根记忆、联想记忆、谐音记忆、典型例句串词等。\r\n\r\n【词书特色】\r\n1. 精选六级核心词汇，收词覆盖面广，讲解重点突出。\r\n2. 遵循科学记忆规律，提供高效助记方法。",
+                "authorId": 1,
+                "description": "人气教师王江涛、王妙然联手力作。\r\n\r\n【词书内容】\r\n1. 选取近五年六级真题中出现过的核心词汇，列出真题出现的考点搭配和重要用法，提供最常见、最易考的义项，重点突出。\r\n2. 讲解高效实用的记忆方法，如：词根记忆、联想记忆、谐音记忆、典型例句串词等。\r\n\r\n【词书特色】\r\n1. 精选六级核心词汇，收词覆盖面广，讲解重点突出。\r\n2. 遵循科学记忆规律，提供高效助记方法。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20181213112437_十天搞定六级词汇：便携版.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1684531,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GA4DGMBWNQZS62SFMVZFSK3NIJRTMY2ZPJ5GC4BSMVRWK2SNONZEM6KBI5STEYKOMRHXG3DMNMXU2PJZGYYDCNQ=.dat?uid=10410209&vocabularyId=414&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 1683874,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GI2TGNBSNFEVCN2XNRLDKWCUGVLTG2ZROQVWYNSWIF3DSRCNNJSFSKZUJQZXQU2OOA3XCVCFG53WGPJVHE2DMMQ=.dat?uid=10410209&vocabularyId=414&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -19,
+                "wordSize": 1583,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "十天搞定六级词汇：便携版",
+                "productId": 698,
+                "templateType": 0,
+                "tianmao": "https://detail.m.tmall.com/item.htm?spm=a220z.1000880.0.0.ZvqiLg&id=559428223875",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536645100028002400",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": "28",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1076,
+                "targetId": 7,
+                "name": "六级绿宝书乱序：全新升级",
+                "simpleName": "【全新升级，重磅上市】\r\n俞敏洪老师权威编著，全新升级版六级乱序，口碑之选，持续畅销！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【全新改版和旧版相比有何变化？】\r\n\r\n1. 单词按考频编排，分为高、中、低、零频词，科学合理，记词省时省力。\r\n2. 紧跟考试动态，更新六级真题例句；完善单词的词义、记忆法。\r\n3. 重录单词和例句，专业外教英音朗读。\r\n\r\n【内容简介】\r\n一、收词全面，按考频编排，乱中有序\r\n1. 紧跟改革趋势，完整收录六级大纲核心词汇，根据单词考频编排\r\n2. 收录高频词汇645个，中频词汇713个，低频词汇648个，零频词汇736个，超纲单词50个，熟次僻义100个。\r\n二、采用“词根+联想”记忆法，提供科学、便捷、有趣的记忆方法\r\n1. 词根记忆：编写大量词根记忆法，举一反三，四两拨千斤。\r\n2. 联想记忆：通过单词的分拆、谐音和词与词之间的联系将难词化简，联词成串。\r\n3. 发音记忆：一种记单词的快捷方法，辅助记忆成效显著。\r\n三、精选例句，语境记忆\r\n真题例句以及与六级考试难度相当的例句，利用语境记忆单词。\r\n四、近义词辨析\r\n辨析不易区分的近义词，刨根问底。\r\n五、词源故事\r\n有趣的词源故事，从起源透析单词释义的演变，加深理解。\r\n六、专业外教朗读音频\r\n单词和例句配有专业外教朗读的音频，背单词、练听力，一举两得。\r\n\r\n【出版时间：2021年7月】",
+                "authorId": 1,
+                "description": "【全新升级，重磅上市】\r\n俞敏洪老师权威编著，全新升级版六级乱序，口碑之选，持续畅销！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【全新改版和旧版相比有何变化？】\r\n\r\n1. 单词按考频编排，分为高、中、低、零频词，科学合理，记词省时省力。\r\n2. 紧跟考试动态，更新六级真题例句；完善单词的词义、记忆法。\r\n3. 重录单词和例句，专业外教英音朗读。\r\n\r\n【内容简介】\r\n一、收词全面，按考频编排，乱中有序\r\n1. 紧跟改革趋势，完整收录六级大纲核心词汇，根据单词考频编排\r\n2. 收录高频词汇645个，中频词汇713个，低频词汇648个，零频词汇736个，超纲单词50个，熟次僻义100个。\r\n二、采用“词根+联想”记忆法，提供科学、便捷、有趣的记忆方法\r\n1. 词根记忆：编写大量词根记忆法，举一反三，四两拨千斤。\r\n2. 联想记忆：通过单词的分拆、谐音和词与词之间的联系将难词化简，联词成串。\r\n3. 发音记忆：一种记单词的快捷方法，辅助记忆成效显著。\r\n三、精选例句，语境记忆\r\n真题例句以及与六级考试难度相当的例句，利用语境记忆单词。\r\n四、近义词辨析\r\n辨析不易区分的近义词，刨根问底。\r\n五、词源故事\r\n有趣的词源故事，从起源透析单词释义的演变，加深理解。\r\n六、专业外教朗读音频\r\n单词和例句配有专业外教朗读的音频，背单词、练听力，一举两得。\r\n\r\n【出版时间：2021年7月】",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210804134735_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4196279,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GYYTGOJXFM2FMQKCJZBFC2ZWHFBXEZLWHBUVELZQF5UEITKIIR4XC4ZSOVGHIR3DIFSGCSSHFNIWOPJUG43TMOA=.dat?uid=10410209&vocabularyId=1076&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -19,
+                "wordSize": 2992,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】六级绿宝书乱序：全新升级",
+                "productId": 3127,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75722181800048004320",
+                "isEntityBook": "1",
+                "entityBookProductId": 3128,
+                "entityBookProductName": "【实体书版】六级绿宝书乱序：全新升级",
+                "entityBookSellPrice": "42",
+                "entityBookOrderState": null,
+                "bookStartPrice": "48",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1086,
+                "targetId": 7,
+                "name": "【星火英语】六级词汇周计划",
+                "simpleName": "7周突破，六级词汇；每天50词，单词轻松记。\r\n\r\n【词书内容】\r\n本书根据新大纲编写而成，分为核心词汇和认知词汇两大部分(认知词汇在单词卡中已标注出来，其余为核心词汇)。通过计划性的编排方式，助考生突破六级词汇。\r\n\r\n【词书特点】\r\n1.新大纲：依据《全国大学英语四、六级考试大纲》编写而成。\r\n2.乱序编排：按照单词在历年真题中出现的频次，由高到低排列，重点突出。\r\n3.内容精炼：源于真题，精选考义、考点和真题例句，六级考什么，本书讲什么。\r\n4.科学计划：每天50词，单词轻松记。",
+                "authorId": 1,
+                "description": "7周突破，六级词汇；每天50词，单词轻松记。\r\n\r\n【词书内容】\r\n本书根据新大纲编写而成，分为核心词汇和认知词汇两大部分(认知词汇在单词卡中已标注出来，其余为核心词汇)。通过计划性的编排方式，助考生突破六级词汇。\r\n\r\n【词书特点】\r\n1.新大纲：依据《全国大学英语四、六级考试大纲》编写而成。\r\n2.乱序编排：按照单词在历年真题中出现的频次，由高到低排列，重点突出。\r\n3.内容精炼：源于真题，精选考义、考点和真题例句，六级考什么，本书讲什么。\r\n4.科学计划：每天50词，单词轻松记。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210903092854_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3585909,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE3DOOBTK4VXK4DFNBJEWNTTPAYFUTDPIF2FGL3XMFFHE5JWONJC6T2IGJZTML3TMZ4DM43RNV2TQPJRGM3DMMQ=.dat?uid=10410209&vocabularyId=1086&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -18,
+                "wordSize": 2702,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@星火英语",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "39.8",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【星火英语】六级词汇周计划",
+                "productId": 3232,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "978-7-313-19695-8",
+                "isEntityBook": "1",
+                "entityBookProductId": 3236,
+                "entityBookProductName": "【实体书版】【星火英语】六级词汇周计划",
+                "entityBookSellPrice": "35",
+                "entityBookOrderState": null,
+                "bookStartPrice": "39.8",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 544,
+                "targetId": 7,
+                "name": "六级新大纲全部词汇",
+                "simpleName": "【词书内容】\r\n根据六级最新大纲，收录近4500个真题词汇、4600个普通例句、1500个真题例句、1000个考点，500个常见用法以及常考词组。\r\n\r\n【词书特色】\r\n1. 收词科学。根据六级最新大纲，收录近4500个真题词汇，帮助考生查漏补缺，背词无遗漏。\r\n2. 海量真题例句。明确单词在考试中的用法，轻松掌握单词释义。\r\n3. 精选记忆法。词根记忆+联想记忆，一步解决单词记不住的问题。\r\n4. 精选翻译考点词组。收录真题翻译考点词组，精准掌握地道表达。",
+                "authorId": 1,
+                "description": "【词书内容】\r\n根据六级最新大纲，收录近4500个真题词汇、4600个普通例句、1500个真题例句、1000个考点，500个常见用法以及常考词组。\r\n\r\n【词书特色】\r\n1. 收词科学。根据六级最新大纲，收录近4500个真题词汇，帮助考生查漏补缺，背词无遗漏。\r\n2. 海量真题例句。明确单词在考试中的用法，轻松掌握单词释义。\r\n3. 精选记忆法。词根记忆+联想记忆，一步解决单词记不住的问题。\r\n4. 精选翻译考点词组。收录真题翻译考点词组，精准掌握地道表达。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20191126142157_NEW.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 5141408,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ2DMNBTN5GE4SSPI5CTO32SIRVWWNBQNRZUEQLWMV3UCODYOVDVSWTMHBFDEYJVII2FCZDTNNHECPJQGAYTCNQ=.dat?uid=10410209&vocabularyId=544&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 5142467,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/HE4TENJSNRXHC5KTN5DDG2KOIVRDQOLPLJTEQ5CNJ42FCS2LOVRVCKZWO5BWO4SQJEYUY4CRIVVGOPJYGI4TAMY=.dat?uid=10410209&vocabularyId=544&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "免费试用",
+                        "labelCode": 20
+                    }
+                ],
+                "ordinal": -17,
+                "wordSize": 4423,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1067,
+                "targetId": 7,
+                "name": "1周刷完六级常考核心词",
+                "simpleName": "7天速记大纲常考核心词！！！\r\n\r\n背什么？\r\n常考核心词400+，精心挑选重点高频词\r\n\r\n怎么背？\r\n相见恨晚背词法，词根词缀核心方法倾囊相授，开倍速记单词扩大你的词汇量\r\n\r\n如何用？\r\n精选例句+拓展，放在句子里也会用，掌握单词规律，地道准确使用词汇\r\n\r\n背了就忘，怎么办？\r\n科学记忆，艾宾浩斯记忆曲线，循环反复加深记忆，有效抗遗忘\r\n\r\n适合人群？\r\n1. 词汇基础较为薄弱的同学\r\n2. 缺乏背词兴趣和方法的同学\r\n3. 想”不费力气“过四六级的同学",
+                "authorId": 1,
+                "description": "7天速记大纲常考核心词！！！\r\n\r\n背什么？\r\n常考核心词400+，精心挑选重点高频词\r\n\r\n怎么背？\r\n相见恨晚背词法，词根词缀核心方法倾囊相授，开倍速记单词扩大你的词汇量\r\n\r\n如何用？\r\n精选例句+拓展，放在句子里也会用，掌握单词规律，地道准确使用词汇\r\n\r\n背了就忘，怎么办？\r\n科学记忆，艾宾浩斯记忆曲线，循环反复加深记忆，有效抗遗忘\r\n\r\n适合人群？\r\n1. 词汇基础较为薄弱的同学\r\n2. 缺乏背词兴趣和方法的同学\r\n3. 想”不费力气“过四六级的同学",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210706162422_20210706162332.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 675547,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GYYTKMZQGY2HCRSCHFXFSZBRKRWWCQ3FNNJDQOKRIZTVU2CPNJEU62ZZINKWC6CVN5HGOTLKNA3EKPJZGEZTKNI=.dat?uid=10410209&vocabularyId=1067&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "视频版",
+                        "labelCode": 13
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -16,
+                "wordSize": 400,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "9.9",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "1周刷完六级常考核心词",
+                "productId": 3018,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1105,
+                "targetId": 7,
+                "name": "【星火英语】六级词汇星火式巧计速记",
+                "simpleName": "【词书内容】\r\n本书根据历年真题和新大纲收词，提供单词的考频、考点、考义和考题，从各方面提高考生的应试能力。\r\n\r\n【词书特点】\r\n由熟词记生词，快速扩大词汇量：星火式记忆法，以中学的简单词汇为基础，推导出与之相关的六级词汇，以一个熟词串记N个生词，通过联想记忆，快速增加词汇量。\r\n\r\n真题怎么考，本书怎么讲：本书总结历年真题词汇考点和难点，给单词标注考频、画出考义、突出考点、精选真题例句，从各方面提高应试能力。\r\n\r\n熟词生义，告别“读不懂”：新增“熟词生义”，精心挑选四级考试中最熟悉的“陌生词”，帮助考生解决单词认识，句子却读不懂的困扰。\"\r\n",
+                "authorId": 1,
+                "description": "【词书内容】\r\n本书根据历年真题和新大纲收词，提供单词的考频、考点、考义和考题，从各方面提高考生的应试能力。\r\n\r\n【词书特点】\r\n由熟词记生词，快速扩大词汇量：星火式记忆法，以中学的简单词汇为基础，推导出与之相关的六级词汇，以一个熟词串记N个生词，通过联想记忆，快速增加词汇量。\r\n\r\n真题怎么考，本书怎么讲：本书总结历年真题词汇考点和难点，给单词标注考频、画出考义、突出考点、精选真题例句，从各方面提高应试能力。\r\n\r\n熟词生义，告别“读不懂”：新增“熟词生义”，精心挑选四级考试中最熟悉的“陌生词”，帮助考生解决单词认识，句子却读不懂的困扰。\"\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210910155410_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3031797,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G4YDGMBVMV4DEOKCF5YGGY2HIZBUWRCKIY4WIVDNJMVVOM3VMQZGG6SKGVFUOTJZGA4EERRRLI3U2PJUHA3DAMI=.dat?uid=10410209&vocabularyId=1105&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    }
+                ],
+                "ordinal": -16,
+                "wordSize": 2338,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@星火英语",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "54.8",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【星火英语】六级词汇星火式巧计速记",
+                "productId": 3252,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "978-7-313-19627-9",
+                "isEntityBook": "1",
+                "entityBookProductId": 3254,
+                "entityBookProductName": "【实体书版】【星火英语】六级词汇星火式巧计速记",
+                "entityBookSellPrice": "45",
+                "entityBookOrderState": null,
+                "bookStartPrice": "54.8",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 624,
+                "targetId": 7,
+                "name": "【限时8元】六级词汇红宝书",
+                "simpleName": "俞敏洪老师经典力作！\r\n\r\n【词书内容】\r\n收录考纲全部核心词，配“词根+联想”记忆法、真题例句、考点、派生词、词源故事、近义词辨析。\r\n\r\n【词书特点】\r\n1. 科学编排，重点单词一网打尽\r\n2.“词根+联想”，词汇障碍一扫而光\r\n3. 收录新大纲新增词汇，紧跟改革趋势\r\n4. 适应新题型，为翻译、写作增加亮点",
+                "authorId": 1,
+                "description": "俞敏洪老师经典力作！\r\n\r\n【词书内容】\r\n收录考纲全部核心词，配“词根+联想”记忆法、真题例句、考点、派生词、词源故事、近义词辨析。\r\n\r\n【词书特点】\r\n1. 科学编排，重点单词一网打尽\r\n2.“词根+联想”，词汇障碍一扫而光\r\n3. 收录新大纲新增词汇，紧跟改革趋势\r\n4. 适应新题型，为翻译、写作增加亮点",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190531092219_liuji.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3143294,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ2TCMZWIFCU2R3VJZZDON3ROYZDKS3HNVRXUZCGMFVU4MLGJZFVS4KLNBLW45SJORYGOYTBIVRFCPJXHE3DQOI=.dat?uid=10410209&vocabularyId=624&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3144215,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/HA2DEMRXMZVGCWSTNNYDC6DOMNEGQRLIKFXGWV32MV2C6NRVKBWEKSSENEXVKOBUMNMFST2JOQ3EKPJUGI2TQMA=.dat?uid=10410209&vocabularyId=624&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -14,
+                "wordSize": 2742,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "8",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【限时8元】六级词汇红宝书",
+                "productId": 1466,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536591500048004000",
+                "isEntityBook": "1",
+                "entityBookProductId": 2969,
+                "entityBookProductName": "【实体书版】【限时8元】六级词汇红宝书",
+                "entityBookSellPrice": "42",
+                "entityBookOrderState": null,
+                "bookStartPrice": "48",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 398,
+                "targetId": 7,
+                "name": "20天背完六级核心词汇",
+                "simpleName": "20天速记核心词，熟识六级大纲新词，听记结合！高效！应急！特别适合短期备考六级考试的考生！\r\n\r\n【词书内容】\r\n收录2000个大纲核心词汇，并收录大纲新增的559个六级词汇。搭配六级常考词组搭配、例句、乐词官方记忆法。\r\n\r\n【词书特点】\r\n1. 精准。六级大纲词汇有5380个（派生词未单列），但实际其中部分词汇为初高中时的简单词汇，部分为四级词汇，为此原书编者精研历年六级真题，统计大纲词汇的考频，据此确定其中2000个为核心词汇收入本书，使考生集中突破，学习更高效。\r\n2. 快速。词库浓缩了六级考试词汇必背精华内容。\r\n3. 全新。词库收录了2016年修订版考试大纲词表新增的562个六级词汇。",
+                "authorId": 1,
+                "description": "20天速记核心词，熟识六级大纲新词，听记结合！高效！应急！特别适合短期备考六级考试的考生！\r\n\r\n【词书内容】\r\n收录2000个大纲核心词汇，并收录大纲新增的559个六级词汇。搭配六级常考词组搭配、例句、乐词官方记忆法。\r\n\r\n【词书特点】\r\n1. 精准。六级大纲词汇有5380个（派生词未单列），但实际其中部分词汇为初高中时的简单词汇，部分为四级词汇，为此原书编者精研历年六级真题，统计大纲词汇的考频，据此确定其中2000个为核心词汇收入本书，使考生集中突破，学习更高效。\r\n2. 快速。词库浓缩了六级考试词汇必背精华内容。\r\n3. 全新。词库收录了2016年修订版考试大纲词表新增的562个六级词汇。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210607162424_20cet6_20210607162350.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2978433,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HEYDEMJZGZIXOQKZF5SS632GNN2GS5KMM5QXMN2LGJJUURLJOZSWOY3LJNAW4YZLGR3WKRLGPFMGWPJXHAYDMMI=.dat?uid=10410209&vocabularyId=398&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -13,
+                "wordSize": 2559,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】20天背完六级核心词汇",
+                "productId": 692,
+                "templateType": 0,
+                "tianmao": "https://detail.m.tmall.com/item.htm?spm=a220z.1000880.0.0.oQbTcu&id=534990440610",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536378400030004270",
+                "isEntityBook": "1",
+                "entityBookProductId": 3066,
+                "entityBookProductName": "【实体书版】20天背完六级核心词汇",
+                "entityBookSellPrice": "29",
+                "entityBookOrderState": null,
+                "bookStartPrice": "30",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1132,
+                "targetId": 7,
+                "name": "六级常考核心词组",
+                "simpleName": "1. 重点突出，规划合理\r\n本书将收录的1200个词组按照其考查频次和难度，分为核心词组和简单词组两个部分。核心词组部分讲解考试中常见的词组表达及用法，针对六级考试中设题常使用同义替换的方式，讲解中特别增设同义词组栏目以及部分易混词组的辨析，让学习内容更充实。简单词组部分收录了常见的、难度略低的词组，供考生夯实基础，全面备考。同时，本书将每部分细分成若干单元，其中核心词组部分含15个list，简单词组部分含5个list，全书共计20个list，以便考生根据单元进行合理地规划复习。\r\n\r\n2. 真题再现，难度适当\r\n本书所有词组均提供例句，这些例句来自历年六级真题或者国外主流英语报刊，即我们常说的题源。所有真题例句、题源例句难度适中，旨在帮助考生在学习、记忆这些词组的同时，熟悉真题，了解词组在真题中的考查状况。",
+                "authorId": 1,
+                "description": "1. 重点突出，规划合理\r\n本书将收录的1200个词组按照其考查频次和难度，分为核心词组和简单词组两个部分。核心词组部分讲解考试中常见的词组表达及用法，针对六级考试中设题常使用同义替换的方式，讲解中特别增设同义词组栏目以及部分易混词组的辨析，让学习内容更充实。简单词组部分收录了常见的、难度略低的词组，供考生夯实基础，全面备考。同时，本书将每部分细分成若干单元，其中核心词组部分含15个list，简单词组部分含5个list，全书共计20个list，以便考生根据单元进行合理地规划复习。\r\n\r\n2. 真题再现，难度适当\r\n本书所有词组均提供例句，这些例句来自历年六级真题或者国外主流英语报刊，即我们常说的题源。所有真题例句、题源例句难度适中，旨在帮助考生在学习、记忆这些词组的同时，熟悉真题，了解词组在真题中的考查状况。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211209154617_LJDY.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 669535,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HEZTCMJWMVSG65JLJA3HU2BLIJHXSMTGLJXESSSTKIYHI33MJJKFSNCWNNRHAYSIMV3GUVCHJBGDQPJZGIZTQOI=.dat?uid=10410209&vocabularyId=1132&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -13,
+                "wordSize": 1202,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "35",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "六级常考核心词组",
+                "productId": 3496,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 226,
+                "targetId": 7,
+                "name": "六级词汇分频速记",
+                "simpleName": "【词书内容】\r\n收录近10年六级考试真题1-32考频全部词汇；配乐词官方记忆法、词根、同根词等。\r\n\r\n【词书特色】\r\n按考试出现的频度进行排序；派生词、同根词拓展词汇量。",
+                "authorId": 1,
+                "description": "【词书内容】\r\n收录近10年六级考试真题1-32考频全部词汇；配乐词官方记忆法、词根、同根词等。\r\n\r\n【词书特色】\r\n按考试出现的频度进行排序；派生词、同根词拓展词汇量。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628120705_kaopin.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 5509487,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GA2DENZROF4FCSTZG5LG4S3UI53UKSTRINMHU6SWPFNGY5DIOFKUOOBXOVRGKMKIPBMTESKHMNWUCPJUHE2DCOI=.dat?uid=10410209&vocabularyId=226&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 5510396,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GYZTANRRNR4UGRDWGNMW6N2CJREUW2DWNY4EW5SCNNIHU4TRKRXFEQZPMQVVQUKELBSGKRBLONMWWPJZGYZTSMQ=.dat?uid=10410209&vocabularyId=226&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -12,
+                "wordSize": 3255,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "六级词汇分频速记",
+                "productId": 390,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 427,
+                "targetId": 7,
+                "name": "六级必考400核心词",
+                "simpleName": "人气教师王江涛、王妙然联手力作。\r\n\r\n【词书内容】\r\n基于《十天搞定六级词汇便携版》内容进行精编，精选六级核心词汇，讲解重点突出。\r\n\r\n【词书特色】\r\n1. 选取近五年六级真题中出现过的核心词汇，列出真题出现的考点搭配和重要用法，提供最常见、最易考的义项，重点突出。\r\n2. 词以类记，摒弃令人生厌的abandon，把“本是同根生”的一系列单词速记，事半功倍。",
+                "authorId": 1,
+                "description": "人气教师王江涛、王妙然联手力作。\r\n\r\n【词书内容】\r\n基于《十天搞定六级词汇便携版》内容进行精编，精选六级核心词汇，讲解重点突出。\r\n\r\n【词书特色】\r\n1. 选取近五年六级真题中出现过的核心词汇，列出真题出现的考点搭配和重要用法，提供最常见、最易考的义项，重点突出。\r\n2. 词以类记，摒弃令人生厌的abandon，把“本是同根生”的一系列单词速记，事半功倍。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180508171155_liuji.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 738404,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GY2DQNZTLIYEIZTSLBHU2YLYKVXEI2BXKVUEO6KFJBYVKNCYNNGGWM2UIZDG6MDMGFRHIYZYKN3TAPJYG43TSMY=.dat?uid=10410209&vocabularyId=427&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -11,
+                "wordSize": 400,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "12",
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "六级必考400核心词",
+                "productId": 715,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1042,
+                "targetId": 7,
+                "name": "六级绿宝书乱序版",
+                "simpleName": "俞敏洪老师权威编著，最新升级版六级绿宝书，每年下载量4w+，CET-6考试推荐参考用书\r\n\r\n【新版和旧版相比有何变化？】\r\n\r\n1. 囊括《全国大学英语六级考试大纲》所有新增词，删除大纲词表中已经删除的词汇\r\n2. 更新若干例句，新增派生词，完善词义、记忆法、单词讲解更丰富\r\n3. 删除旧题型的单选和翻译真题\r\n\r\n【词书内容】\r\n严格按照大纲收录所有六级核心单词以及六级大纲新增词汇，从历年真题中总结了常考的超纲单词，精心总结了熟词僻义表。\r\n\r\n【词书特色】\r\n一、收录六级大纲新增词汇，紧跟改革趋势\r\n二、适应新题型，为翻译、写作增加亮点\r\n三、归纳六级真题中常考的词组和搭配，帮助考生抓住考试重点\r\n四、精选真题例句与六级考试难度相当的例句，在语境中记单词，事半功倍\r\n五、探究词源，帮助了解词汇的文化背景，更有利于记忆\r\n六、收录派生词，帮助考生以熟记生，拓展更多词汇\r\n七、辨析不易区分的近义词，刨根问底，分析不同单词在含义和用法上的细微差别",
+                "authorId": 1,
+                "description": "俞敏洪老师权威编著，最新升级版六级绿宝书，每年下载量4w+，CET-6考试推荐参考用书\r\n\r\n【新版和旧版相比有何变化？】\r\n\r\n1. 囊括《全国大学英语六级考试大纲》所有新增词，删除大纲词表中已经删除的词汇\r\n2. 更新若干例句，新增派生词，完善词义、记忆法、单词讲解更丰富\r\n3. 删除旧题型的单选和翻译真题\r\n\r\n【词书内容】\r\n严格按照大纲收录所有六级核心单词以及六级大纲新增词汇，从历年真题中总结了常考的超纲单词，精心总结了熟词僻义表。\r\n\r\n【词书特色】\r\n一、收录六级大纲新增词汇，紧跟改革趋势\r\n二、适应新题型，为翻译、写作增加亮点\r\n三、归纳六级真题中常考的词组和搭配，帮助考生抓住考试重点\r\n四、精选真题例句与六级考试难度相当的例句，在语境中记单词，事半功倍\r\n五、探究词源，帮助了解词汇的文化背景，更有利于记忆\r\n六、收录派生词，帮助考生以熟记生，拓展更多词汇\r\n七、辨析不易区分的近义词，刨根问底，分析不同单词在含义和用法上的细微差别",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210512134148_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4042671,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GE4TMMJRMI2G66KWKVFU4UKXKFSS652XKQ4TGQTPKNGTCZ22KBBG4WLQIVDE4TBSMRJVGNT2GZGXOPJWGUYTGOI=.dat?uid=10410209&vocabularyId=1042&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -11,
+                "wordSize": 2970,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "18",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "六级绿宝书乱序版",
+                "productId": 2874,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1116,
+                "targetId": 7,
+                "name": "六级词汇词根+联想记忆法：乱序便携版",
+                "simpleName": "本书旨在通过系统介绍“词根+联想”记忆法，使考生在短时间内轻松记住六级单词。“词根+联想”记忆法是以词根、词缀记单词为主，并利用单词的拆分、谐音和词与词之间的联系形成的一套系统、灵活、实用、有效的记忆方法。本书打破了常规的字母顺序排列单词的方式，以乱序编排带来了学习新体验，并依照单词的侧重点将单词分为核心单词、超纲单词、熟词僻义几大部分。此外，本书还囊括了六级新大纲词汇表所有新增词，接近匹配《大学英语六级考试大纲》词表。",
+                "authorId": 1,
+                "description": "本书旨在通过系统介绍“词根+联想”记忆法，使考生在短时间内轻松记住六级单词。“词根+联想”记忆法是以词根、词缀记单词为主，并利用单词的拆分、谐音和词与词之间的联系形成的一套系统、灵活、实用、有效的记忆方法。本书打破了常规的字母顺序排列单词的方式，以乱序编排带来了学习新体验，并依照单词的侧重点将单词分为核心单词、超纲单词、熟词僻义几大部分。此外，本书还囊括了六级新大纲词汇表所有新增词，接近匹配《大学英语六级考试大纲》词表。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211105142038_liujibianxie.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3919158,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQYTMMRTJUYUGMDHOZEEWSKUJJDEMYSUPB4W26BLKJ4VQMJXFNJHUYJXJRIUG4KLJBYVSODHOZKHGPJQHE2TMMQ=.dat?uid=10410209&vocabularyId=1116&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 12,
+                "wordSize": 3002,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "10",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "六级词汇词根+联想记忆法：乱序便携版",
+                "productId": 3401,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1070,
+                "targetId": 7,
+                "name": "四六级常考核心词组",
+                "simpleName": "新四六级考试推荐用书，一书在手，轻松备考！\r\n\r\n【词书内容】\r\n《新东方四六级常考核心词组1500新题型》是新东方考试研究中心研发的用于四六级词组记诵书籍。编者精研历年四级和六级真题，并综合《大学英语教学要求》中对词组的考查要求，归纳常考核心词组1500条，优选真题、题源或简单例句约2500条，可供四级或六级考生备考使用。\r\n\r\n【词书特点】\r\n1.精研四、六级真题，总结常考核心词组，将学习内容组块，同时记诵单词和词组，一箭双雕。\r\n2.将所有词组科学分类为动词词组、介词词组和其他词组三大部分。\r\n3.全书收录例句兼顾简单、题源、真题三种语境层次，以便考生体验真题难度，从容备考。\r\n",
+                "authorId": 1,
+                "description": "新四六级考试推荐用书，一书在手，轻松备考！\r\n\r\n【词书内容】\r\n《新东方四六级常考核心词组1500新题型》是新东方考试研究中心研发的用于四六级词组记诵书籍。编者精研历年四级和六级真题，并综合《大学英语教学要求》中对词组的考查要求，归纳常考核心词组1500条，优选真题、题源或简单例句约2500条，可供四级或六级考生备考使用。\r\n\r\n【词书特点】\r\n1.精研四、六级真题，总结常考核心词组，将学习内容组块，同时记诵单词和词组，一箭双雕。\r\n2.将所有词组科学分类为动词词组、介词词组和其他词组三大部分。\r\n3.全书收录例句兼顾简单、题源、真题三种语境层次，以便考生体验真题难度，从容备考。\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210715150422_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1029901,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HAYTINBXNFZUMZSTJNZWO3KIOJ2WMY2JINMTO6LXF52WST3RHBTTIT32OZBW2R2WNRAVIUCJGREGWPJUGM2DCMI=.dat?uid=10410209&vocabularyId=1070&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 13,
+                "wordSize": 1569,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "四六级常考核心词组",
+                "productId": 3057,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "9787553630212",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            }
+        ],
+        "tagDes": "",
+        "androidgroupkey": "",
+        "prompt": "",
+        "iosgroupkey": ""
+    },
+    "temp": 0
+}

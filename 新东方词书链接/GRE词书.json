@@ -1,0 +1,479 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": {
+        "dataVocabulary": [
+            {
+                "vocabularyId": 1,
+                "targetId": 1,
+                "name": "GRE全部词汇",
+                "simpleName": "GRE全部词汇",
+                "authorId": 1,
+                "description": "GRE全部词汇",
+                "description2": "适合全面掌握应考词汇",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628095844_GREALL.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/100persent_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 7527113,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/HAYDSOJXIJWWEY2WOBBUS53EJNVTG5JUNJKESRSGIZFG2SSJKAYDGR2ZOA4XQMLGKZHGE3SOK5JWWPJZGE3DKMY=.dat?uid=10410209&vocabularyId=1&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 7527653,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GM4DMNJWGJJFG43WKBXHSRLVOFKGSMZUMIZUUMSRKZXUWWRLM5VVGMKUOJDECR2IIFSUC3RQF52TAPJVHE2DKMI=.dat?uid=10410209&vocabularyId=1&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 7533972,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/HA3TAMBTGM3FCVZLGZSWYUSZFNUFSQKCJRYEOWKENNBVEY3OI5NHCK2QNZHHI5ZSGVHVIRLZM5HGOPJSG43TIMI=.dat?uid=10410209&vocabularyId=1&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -10,
+                "wordSize": 6487,
+                "defaultSound": "US",
+                "fileSize": 362533,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您切换到核心词汇背诵。"
+                    }
+                ],
+                "file": "/vocabulary/v1/HA4TSOJULBVGWNBUHFUCWT3BOJDXCNKZME3TC32YHFJG6SCCJU4VM4TGMFTTIMCRJBBHSK3RNJFTQPJUGY3DQMY=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 21,
+                "targetId": 1,
+                "name": "GRE核心词汇",
+                "simpleName": "GRE核心词汇",
+                "authorId": 1,
+                "description": "GRE核心词汇",
+                "description2": "方便学生高效学习",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628095919_grehexin.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/starpart_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 4159245,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GEYDQNBVGVQVM2DWJVEVGWKUJVHTOU3FI55CW6CTJ5UFCT3FLFVE65SRIRWHUUJVJA3FMNRSKMZDIPJXHEYTEOA=.dat?uid=10410209&vocabularyId=21&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 4159466,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GY3DCMJYKVUWGMBQKBMEURBSN5ATMTZLPJMFGV3ZHBXGSUDLPFLHAWSUINWVUUBQGVDEIMLSGRMFCPJZG43TIMA=.dat?uid=10410209&vocabularyId=21&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 4162771,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GQYDEMBVI5YFC3JXGBSFOYSCNJHE4ZKHNRLSWTBTO5YHC4DYMFCG4YSJNV4FGVLKJZ2UW2CEMZEHGPJXGEYTQOA=.dat?uid=10410209&vocabularyId=21&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -9,
+                "wordSize": 3280,
+                "defaultSound": "US",
+                "fileSize": 184645,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GY2DANZRKBCEGT2DNZMTG42UPF2TA4CDOZTVU2KFKAYXI5KINRDS63LVLEYWUL3EKJVXSTLZJFDU2PJWGUYDQOI=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 595,
+                "targetId": 1,
+                "name": "GRE词汇精选",
+                "simpleName": "新东方创始人俞敏洪老师经典之作\r\n\r\n【词书内容】\r\n1. 收词全面，囊括迄今为止GRE考试全部重要词汇。\r\n2. 单词配有精准的中英文释义，帮助考生更好的理解单词含义。并提供经典例句，结合语境加深考生对单词的理解和记忆。\r\n3. 提供重要词汇的记忆方法，以“词根+联想”记忆法为主，辅以组合词、单词拆分、谐音等多种记忆方法，帮助考生轻松背单词。\r\n4. 给出丰富的同义词，全面扩充词汇量；归纳常考搭配，帮助考生深入学习单词的用法。\r\n\r\n【词书特色】\r\n1. 全面收录了迄今为止GRE考试的全部重要词汇，精准释义，提供大量经典例句。\r\n2. 最大程度上提升单词记忆的趣味性，科学、有效地记忆单词。",
+                "authorId": 1,
+                "description": "新东方创始人俞敏洪老师经典之作\r\n\r\n【词书内容】\r\n1. 收词全面，囊括迄今为止GRE考试全部重要词汇。\r\n2. 单词配有精准的中英文释义，帮助考生更好的理解单词含义。并提供经典例句，结合语境加深考生对单词的理解和记忆。\r\n3. 提供重要词汇的记忆方法，以“词根+联想”记忆法为主，辅以组合词、单词拆分、谐音等多种记忆方法，帮助考生轻松背单词。\r\n4. 给出丰富的同义词，全面扩充词汇量；归纳常考搭配，帮助考生深入学习单词的用法。\r\n\r\n【词书特色】\r\n1. 全面收录了迄今为止GRE考试的全部重要词汇，精准释义，提供大量经典例句。\r\n2. 最大程度上提升单词记忆的趣味性，科学、有效地记忆单词。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190125113156_GRE.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3902207,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQ3DCMJVKVYXSYJXM5JXIUKKHB3WKMTWPBVEO4SBPJMS6MZPN54EWRDFJY4GU4KEHBIEGVBWNFRG6PJRGM2DSMA=.dat?uid=10410209&vocabularyId=595&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3905953,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GY3TAMJZINYFUYKWLIXW4MTNOFEFUULGHFIFOQJZGBEXKM22GZXUG2DSJN2FKQTUNM4VUTDENZXFKPJRGM3DMNY=.dat?uid=10410209&vocabularyId=595&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -8,
+                "wordSize": 6515,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@群言出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】GRE词汇精选",
+                "productId": 1353,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "78025646900058004880",
+                "isEntityBook": "1",
+                "entityBookProductId": 3085,
+                "entityBookProductName": "【实体书版】GRE词汇精选",
+                "entityBookSellPrice": "39",
+                "entityBookOrderState": null,
+                "bookStartPrice": "76",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 94,
+                "targetId": 1,
+                "name": "GRE必备高频词",
+                "simpleName": "根据近年来GRE考试真题，分析单词考频，精选2293个必考词汇。",
+                "authorId": 1,
+                "description": "根据近年来GRE考试真题，分析单词考频，精选2293个必考词汇。",
+                "description2": "根据近年来GRE考试真题，分析单词考频，精选2293个必考词汇。",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628100058_GREbibei.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/100persent_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 2264601,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GM3TIMRSJF5C6ZJULIZVMOBWKF2HGYRUOBAWY22VPB3C6SSOMRMVI5DGKJTXSQLDJ5LFS6TUG5RXGPJVGA2DGMQ=.dat?uid=10410209&vocabularyId=94&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 2262319,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GM3TIMRSJF5C6ZJULIZVMOBWKF2HGYRUOBAWY22VPB3C6SSOMRMVI5DGKJTXSQLDJ5LFS6TUG5RXGPJVGA2DGMQ=.dat?uid=10410209&vocabularyId=94&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 2264895,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GM3TIMRSJF5C6ZJULIZVMOBWKF2HGYRUOBAWY22VPB3C6SSOMRMVI5DGKJTXSQLDJ5LFS6TUG5RXGPJVGA2DGMQ=.dat?uid=10410209&vocabularyId=94&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -7,
+                "wordSize": 2293,
+                "defaultSound": "US",
+                "fileSize": 123737,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GA3TCOJZMZUFIYKCJBQTG5TVNJDUCMTJOVUGI5CEGF3GG6DSMNJG4SKXORXHUSBQMRUDQL2IIFEECPJUGQ4TSMA=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 379,
+                "targetId": 1,
+                "name": "GRE高频真词表",
+                "simpleName": "GRE名师韩冰、潘晨光联合出品。独家网络授权乐词平台发布。考生口口相传的“GRE佛脚词汇表”重磅袭来！\r\n\r\n从2013年积累至今，立足于实际考试，选择真正意义上的GRE机经词汇，剔除无意义的词汇，切实反映词汇考点动向。\r\n\r\n【词书内容】\r\n1. 收录2013-2017年考试难词2593个，较上一版新增机经真词108个。\r\n2. 参考美语语料库，全新添加主词词频。\r\n3. 总结整理常考反义词。新增派生词，主次分明，而不一味照搬词典。\r\n4. 例句由外教编写，质量更高。\r\n5. 英文释义参考韦氏词典与美国传统词典，中文释义力图忠实于考题语境。\r\n\r\n【词书特色】\r\n1. 相较于手中其它资料，本词库词汇复现率更高。\r\n2. 特别添加句子等价题型常考同义词词对（六选二关联词）与主词词频，使背诵有的放矢，所背即所考。",
+                "authorId": 1,
+                "description": "GRE名师韩冰、潘晨光联合出品。独家网络授权乐词平台发布。考生口口相传的“GRE佛脚词汇表”重磅袭来！\r\n\r\n从2013年积累至今，立足于实际考试，选择真正意义上的GRE机经词汇，剔除无意义的词汇，切实反映词汇考点动向。\r\n\r\n【词书内容】\r\n1. 收录2013-2017年考试难词2593个，较上一版新增机经真词108个。\r\n2. 参考美语语料库，全新添加主词词频。\r\n3. 总结整理常考反义词。新增派生词，主次分明，而不一味照搬词典。\r\n4. 例句由外教编写，质量更高。\r\n5. 英文释义参考韦氏词典与美国传统词典，中文释义力图忠实于考题语境。\r\n\r\n【词书特色】\r\n1. 相较于手中其它资料，本词库词汇复现率更高。\r\n2. 特别添加句子等价题型常考同义词词对（六选二关联词）与主词词频，使背诵有的放矢，所背即所考。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20181213105630_GRE佛脚词 2018版.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2239181,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HA3DMMJTJV2E2V3PGNUXM23YPBVGW5TQOZLVMV2MG52GSMDFKJRC6UKHJVXFCZZLGNBTA4SJNA4E2PJWHEYDANQ=.dat?uid=10410209&vocabularyId=379&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 2238641,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GA2TKNRSJVFVETKMKNEEK2CDJ5IWE4CPNJGXKWCYMJ2HIM3RNZDVGTKYOB3S6RKYOI2VS4DXHF2GWPJUHA4DCNQ=.dat?uid=10410209&vocabularyId=379&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 2238724,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GY4TKOBRMV5GO3KOJFUUGMTGOJLE4MRQKNUVEMSKKB4W2M2RK44EM3JYNZWXGZZRPJGC6ZSBNE2U2PJZGM2DCMQ=.dat?uid=10410209&vocabularyId=379&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -6,
+                "wordSize": 2539,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方北京学校",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "99.9",
+                "sellPrice": "50",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】GRE高频真词表",
+                "productId": 652,
+                "templateType": 0,
+                "tianmao": "https://detail.tmall.com/item.htm?spm=a220z.1000880.0.0.Y7Jmqt&id=563138246769",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536626800050003640",
+                "isEntityBook": "1",
+                "entityBookProductId": 3086,
+                "entityBookProductName": "【实体书版】GRE高频真词表",
+                "entityBookSellPrice": "56",
+                "entityBookOrderState": null,
+                "bookStartPrice": "100",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 900,
+                "targetId": 1,
+                "name": "GRE核心词汇一本通",
+                "simpleName": "新东方GRE课程配套教材，新东方名师团队编写\r\n\r\n【词书内容】\r\n1. 筛选考试2600多个核心单词，240余个阅读单词\r\n2. 中英文释义精准，贴近考试\r\n3. 收录原书全部主词、释义、英文释义、例句、常见用法、近义词及派生词。",
+                "authorId": 1,
+                "description": "新东方GRE课程配套教材，新东方名师团队编写\r\n\r\n【词书内容】\r\n1. 筛选考试2600多个核心单词，240余个阅读单词\r\n2. 中英文释义精准，贴近考试\r\n3. 收录原书全部主词、释义、英文释义、例句、常见用法、近义词及派生词。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200812084741_GRE cover leci.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2809225,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE4TONRTOI2VEK2KKM2TCUKEIZNGCQSMKFBWSNSLNR2GQZZPKB3GGULNPBBEW32EJVJHCWTLKI2TAPJXHEYDEMI=.dat?uid=10410209&vocabularyId=900&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -5,
+                "wordSize": 3357,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@上海译文出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "69",
+                "sellPrice": "21",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "GRE核心词汇一本通",
+                "productId": 2221,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 741,
+                "targetId": 1,
+                "name": "GRE写作必背词汇",
+                "simpleName": "新东方名师张雷冬编著\r\n\r\n【词书内容】\r\nGRE考试必背写作词汇，精选约1500个考试作文常用词汇和词组，词条配有普通例句及翻译、真题例句及翻译、同义词、近义词、反义词、派生词和常用搭配。\r\n\r\n【词书特点】\r\n1. 单词针对性强：针对GRE考试筛选作文常用词汇和词组\r\n2. 释义精准：结合考试语境，单词给出的释义均为写作常用释义，减少学生记忆负担\r\n3. 高效记忆法：词群记忆，通过一个单词引出相关词群，并标注适用范围，为考生写作提供词汇的替换表达，同时让背单词更高效\r\n4. 海量例句：多数单词释义均配有中英文例句，便于学生了解使用方法",
+                "authorId": 1,
+                "description": "新东方名师张雷冬编著\r\n\r\n【词书内容】\r\nGRE考试必背写作词汇，精选约1500个考试作文常用词汇和词组，词条配有普通例句及翻译、真题例句及翻译、同义词、近义词、反义词、派生词和常用搭配。\r\n\r\n【词书特点】\r\n1. 单词针对性强：针对GRE考试筛选作文常用词汇和词组\r\n2. 释义精准：结合考试语境，单词给出的释义均为写作常用释义，减少学生记忆负担\r\n3. 高效记忆法：词群记忆，通过一个单词引出相关词群，并标注适用范围，为考生写作提供词汇的替换表达，同时让背单词更高效\r\n4. 海量例句：多数单词释义均配有中英文例句，便于学生了解使用方法",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200312184351_fengmian.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1371199,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G43DIOJUO42XATJVO4XWY3BQI5ZG42ZYGZAU6MKPJRVFMZ2UPFKXMOLQMVEGSM2SIF4HMOJYFNGDQPJUGUYTCMA=.dat?uid=10410209&vocabularyId=741&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -4,
+                "wordSize": 1510,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "19.9",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "GRE写作必背词汇",
+                "productId": 1810,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            }
+        ],
+        "tagDes": "",
+        "androidgroupkey": "",
+        "prompt": "",
+        "iosgroupkey": ""
+    },
+    "temp": 0
+}

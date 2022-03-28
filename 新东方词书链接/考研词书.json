@@ -1,0 +1,1961 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": {
+        "dataVocabulary": [
+            {
+                "templateType": 1,
+                "activityID": 785,
+                "flag": 0,
+                "activityStatus": 0,
+                "productPrice": "149",
+                "originalPrice": "199",
+                "collagePrice": "129",
+                "openReserve": null,
+                "isCollage": 1,
+                "heading": "23考研恋练对赌营3期",
+                "resume": "",
+                "selectionPic": "http://img1.ileci.com/product/pic/20211217081525_F59D31C9-1504-4D53-B26F-B3B5CB89B8AD.png",
+                "tagType": 0
+            },
+            {
+                "vocabularyId": 1119,
+                "targetId": 6,
+                "name": "【新书上线】2023版恋练有词考研词汇",
+                "simpleName": "【实体书购买说明】\r\n实体书包含：2023版《恋练有词考研英语真题词汇6500分层串记》（主书）、《恋练有词加分宝》、《恋练有词背词宝》。另外加赠2023版恋练有词考研词汇电子词书。\r\n\r\n【电子词书内容】\r\n收录2468个核心词，1118个1频词；配以考过释义、记忆方法、真题考点搭配和真题例句；新增“真题词组小记”、“易混词辨析”、“文化休息站”、“小词有话说”等特色小栏目。\r\n\r\n【词书特色】\r\n1. 紧扣考研大纲和真题，收词全面\r\n2. 按真题词频分高中低频和1频词，重点突出\r\n3. 词群记忆搭配“词根+联想”记忆法\r\n4. 真题切片和例句，搭配纯正英音例句音频，记词学词更高效\r\n5. 收录2021真题例句\r\n\r\n电子词书使用说明：本书为恋练有词主书，包含核心词和1频词（分单元背词模式下，前21个单元为核心词）\r\n",
+                "authorId": 1,
+                "description": "【实体书购买说明】\r\n实体书包含：2023版《恋练有词考研英语真题词汇6500分层串记》（主书）、《恋练有词加分宝》、《恋练有词背词宝》。另外加赠2023版恋练有词考研词汇电子词书。\r\n\r\n【电子词书内容】\r\n收录2468个核心词，1118个1频词；配以考过释义、记忆方法、真题考点搭配和真题例句；新增“真题词组小记”、“易混词辨析”、“文化休息站”、“小词有话说”等特色小栏目。\r\n\r\n【词书特色】\r\n1. 紧扣考研大纲和真题，收词全面\r\n2. 按真题词频分高中低频和1频词，重点突出\r\n3. 词群记忆搭配“词根+联想”记忆法\r\n4. 真题切片和例句，搭配纯正英音例句音频，记词学词更高效\r\n5. 收录2021真题例句\r\n\r\n电子词书使用说明：本书为恋练有词主书，包含核心词和1频词（分单元背词模式下，前21个单元为核心词）\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211110140329_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4162470,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE3TGNZYGEXS6S3LIZTDC6RZIVFHKZ2COVDFENTROM4G4YLPI5ZWQZKQIZSHI2ZZKIXTSM2MI5QVCPJTG4ZDMNQ=.dat?uid=10410209&vocabularyId=1119&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -25,
+                "wordSize": 3573,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "21",
+                "sellPrice": "21",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【新书上线】2023版恋练有词考研词汇",
+                "productId": 3411,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75193067300068005160",
+                "isEntityBook": "1",
+                "entityBookProductId": 3427,
+                "entityBookProductName": "【实体书版】【新书上线】2023版恋练有词考研词汇",
+                "entityBookSellPrice": "51",
+                "entityBookOrderState": null,
+                "bookStartPrice": "78",
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314173905_111.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314173911_1112.png"
+                ]
+            },
+            {
+                "vocabularyId": 1016,
+                "targetId": 6,
+                "name": "考研绿宝书乱序：全新升级",
+                "simpleName": "【全新升级，重磅上市】\r\n俞敏洪老师经典力作，新东方考研乱序全新升级，累计销量200多万册，万千学长学姐倾力推荐！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n1. 全书完整覆盖考研大纲词5500个，历年真题超纲词540个，大纲派生词650个，同义反义词480个，常考词组650个。\r\n2. 例句5400余条，含真题例句2000条。\r\n3. 主词搭配释义、考过释义、记忆方法、例句（含真题例句）、同义词、反义词、派生词、考点搭配、参考词汇、相关词汇。\r\n\r\n【词书特色】\r\n1.“词根+联想”，词汇记忆障碍一扫而光\r\n2. 乱序编排，此时无序胜有序\r\n3. 标记考过词义，单词活跃程度全解密\r\n4. 精选真题例句及搭配，集中突破单词难点",
+                "authorId": 1,
+                "description": "【全新升级，重磅上市】\r\n俞敏洪老师经典力作，新东方考研乱序全新升级，累计销量200多万册，万千学长学姐倾力推荐！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n1. 全书完整覆盖考研大纲词5500个，历年真题超纲词540个，大纲派生词650个，同义反义词480个，常考词组650个。\r\n2. 例句5400余条，含真题例句2000条。\r\n3. 主词搭配释义、考过释义、记忆方法、例句（含真题例句）、同义词、反义词、派生词、考点搭配、参考词汇、相关词汇。\r\n\r\n【词书特色】\r\n1.“词根+联想”，词汇记忆障碍一扫而光\r\n2. 乱序编排，此时无序胜有序\r\n3. 标记考过词义，单词活跃程度全解密\r\n4. 精选真题例句及搭配，集中突破单词难点",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210309151045_kaoyan.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 5058955,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GEYTEMJSO52G6YRZFNQTM3JSKI4GSU3UPBCDKRTPKNZGQSCBJIZGY4CYNJVG66KOPA3FUUDGPJGGWPJQGE2TSNI=.dat?uid=10410209&vocabularyId=1016&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 5057496,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GIZDOMZVINBW2N3IOFRGUOCVOJME62C2G54SWNTMJ52GOY2RIJSHAZ3UKFTDK5ZQK5WVCZCKOZMWWPJTGA4DQNA=.dat?uid=10410209&vocabularyId=1016&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 5057554,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/HA2DKNZVLJVXK42YNJBGE22TGU3HUWKRINSTA4TSOAXXCQ2HLBGGIVKEPBMEMUTJMIXXIQ2IINVUSPJSGY3TCNI=.dat?uid=10410209&vocabularyId=1016&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -24,
+                "wordSize": 3704,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "30",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】考研绿宝书乱序：全新升级",
+                "productId": 2715,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75193061500088004040",
+                "isEntityBook": "1",
+                "entityBookProductId": 2869,
+                "entityBookProductName": "【实体书版】考研绿宝书乱序：全新升级",
+                "entityBookSellPrice": "56",
+                "entityBookOrderState": null,
+                "bookStartPrice": "88",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314174818_4441.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314174826_4442.png"
+                ]
+            },
+            {
+                "vocabularyId": 1166,
+                "targetId": 6,
+                "name": "【新书上线】2023版十天搞定考研词汇乱序版",
+                "simpleName": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】在本书中，词条的讲解包含音标、中文含义、考点搭配、派生词、记忆法、真题例句等，内容简明扼要，重点突出。本书将考研核心词分为了约500个五星单词（LIST1-2）、900个四星词汇（LIST3-6）和2900个三星词汇（LIST7-20）。\r\n\r\n【词书特色】\r\n1.两大讲师联手力作\r\n2.精选考研必背词汇\r\n3.汲取真题词汇精华\r\n4.遵循科学记忆规律\r\n5.提供有效助记方法\r\n\r\n【第三版和第二版有何区别？】\r\n1.第三版新增约300个考研重点单词，收词更广、更全面。\r\n2.第三版新增最新两年真题例句，帮助考生在真题中记忆单词。\r\n3.第三版基于最新两年考研真题，更新部分单词的释义，新增若干真题考点搭配，词汇讲解更丰富。\r\n\r\n提示：在“按单元”背词模式下，可以按原书章节学习单词。",
+                "authorId": 1,
+                "description": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】在本书中，词条的讲解包含音标、中文含义、考点搭配、派生词、记忆法、真题例句等，内容简明扼要，重点突出。本书将考研核心词分为了约500个五星单词（LIST1-2）、900个四星词汇（LIST3-6）和2900个三星词汇（LIST7-20）。\r\n\r\n【词书特色】\r\n1.两大讲师联手力作\r\n2.精选考研必背词汇\r\n3.汲取真题词汇精华\r\n4.遵循科学记忆规律\r\n5.提供有效助记方法\r\n\r\n【第三版和第二版有何区别？】\r\n1.第三版新增约300个考研重点单词，收词更广、更全面。\r\n2.第三版新增最新两年真题例句，帮助考生在真题中记忆单词。\r\n3.第三版基于最新两年考研真题，更新部分单词的释义，新增若干真题考点搭配，词汇讲解更丰富。\r\n\r\n提示：在“按单元”背词模式下，可以按原书章节学习单词。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20220311093422_cover luanxu.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 5023358,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GE2TGMZUJBJW6OCEHBWDMNRVLFIXCTBUHFDEONKXIRRDE2ZLMVSGYQSYI5ZDGN2BOZMEUWSNOVUECPJYHA3DQOI=.dat?uid=10410209&vocabularyId=1166&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -24,
+                "wordSize": 3317,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【新书上线】2023版十天搞定考研词汇乱序版",
+                "productId": 3731,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536805700058204880",
+                "isEntityBook": "1",
+                "entityBookProductId": 3734,
+                "entityBookProductName": "【实体书版】【新书上线】2023版十天搞定考研词汇乱序版",
+                "entityBookSellPrice": "49",
+                "entityBookOrderState": null,
+                "bookStartPrice": "58",
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314174139_2221.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314174148_2222.png"
+                ]
+            },
+            {
+                "vocabularyId": 26,
+                "targetId": 6,
+                "name": "考研核心词汇",
+                "simpleName": "英语一、英语二均适用，根据2021新大纲编写，筛选考试必备核心词，适用2022、2023年考生\r\n\r\n【《考研核心词汇》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】",
+                "authorId": 1,
+                "description": "英语一、英语二均适用，根据2021新大纲编写，筛选考试必备核心词，适用2022、2023年考生\r\n\r\n【《考研核心词汇》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】",
+                "description2": "方便学生高效学习",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628115555_hexin.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/starpart_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 7530319,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE2TKOBUMUVUQRCLOQXVI4SQGF2WIYRWJJMFO23GGZCSWSTGOJJVSYS2KJMVGZKOKZJW6WTROVIWWPJWGIYTOMA=.dat?uid=10410209&vocabularyId=26&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 7528694,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GI4DKNBVMRLTS5DYHE4GW5JXGA4GYZ2IGZ3G4WDBOVQVMT3MN5JGIZSHHBESWUTKNI4GUQ32HB5HOPJZGE2DCMI=.dat?uid=10410209&vocabularyId=26&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 7528538,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GQ4DGNZQORMU6QZSPEYVKQTYIRAWCNCNMZUUE53VJQZW6WCGIJSVSU2IO55E2QRUNFYCWVDIKFDGGPJTHE3DKNI=.dat?uid=10410209&vocabularyId=26&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "免费试用",
+                        "labelCode": 20
+                    }
+                ],
+                "ordinal": -23,
+                "wordSize": 3645,
+                "defaultSound": "US",
+                "fileSize": 208555,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GM4DKOJSJJCDQODDKNRHANZTKFUU6VKXGNXWE52LGQ4GUV3RFNZDMTKTI4YTIR2TIZMXCZCGM5MECPJYGAYTENY=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314175054_5551.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314175100_5552.png"
+                ]
+            },
+            {
+                "vocabularyId": 976,
+                "targetId": 6,
+                "name": "2022版考研全部词汇",
+                "simpleName": "英语一、英语二均适用，根据最新考试大纲编写，适用2022、2023年考生，考研英语，一击上岸\r\n\r\n【《考研全部词汇》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】\r\n\r\n【词书特点】\r\n1. 收录考研大纲全部词汇5711词。\r\n2. 根据近10年真题中出现的频次标识出高频词。\r\n3. 精选常考同义词，轻松拓展词汇量。\r\n4. 精选常考搭配，加强单词应用。\r\n5. 精选真题例句，对长难句进行简化精修，减少复杂句法对单词识记的干扰，营造纯净的背词语境。",
+                "authorId": 1,
+                "description": "英语一、英语二均适用，根据最新考试大纲编写，适用2022、2023年考生，考研英语，一击上岸\r\n\r\n【《考研全部词汇》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】\r\n\r\n【词书特点】\r\n1. 收录考研大纲全部词汇5711词。\r\n2. 根据近10年真题中出现的频次标识出高频词。\r\n3. 精选常考同义词，轻松拓展词汇量。\r\n4. 精选常考搭配，加强单词应用。\r\n5. 精选真题例句，对长难句进行简化精修，减少复杂句法对单词识记的干扰，营造纯净的背词语境。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210125144848_2022.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 6825084,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GIYTKNRVMFSVITDZKRJVC4LZOBFHAQKEKF2EOR3NFNKWYOLCPJLXQTCKHBJU6Z2JM55E2UDCO5YGOPJZGU3TEMY=.dat?uid=10410209&vocabularyId=976&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 6823159,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GQ2DGMZXLF2TMV3WGVVTO3LGFNUVIYRYHFLVS4LCO5ZTSMDRMY4CWMDVORIHK4DEN5GDCQ2NKZXTIPJTGY3TSOI=.dat?uid=10410209&vocabularyId=976&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 6823464,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GI3DQNZSHFHU2SZSPF2FQR3YLJHVO32HFNDGEVKQNJ4E26RQKRKGY4BPJNMGGWLJMRMHA6BTPIZXGPJWGYZTSNQ=.dat?uid=10410209&vocabularyId=976&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "免费试用",
+                        "labelCode": 20
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    }
+                ],
+                "ordinal": -22,
+                "wordSize": 5711,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1167,
+                "targetId": 6,
+                "name": "【新书上线】2023版十天搞定考研词汇便携版",
+                "simpleName": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】在本书中，词条的讲解包含单词、音标、中文含义、考点搭配、派生词，内容简明扼要，重点突出。本书将考研核心词分为了约500个五星单词（LIST1-2）、900个四星词汇（LIST3-6）和3100个三星词汇（LIST7-20）。\r\n\r\n【词书特色】\r\n1. 两大考研一线教师心血之作，凝聚多年教学经验和精华。\r\n2. 本书选取近十余年考研真题中出现过的大纲词汇以及超纲词汇，列出了历年真题中出现的考点搭配和重要用法。\r\n3.8大背词时间、3大背词步骤、3大背词顺序，更多记忆方法，科学有效，十天突破考研词汇不再是梦！\r\n\r\n【第三版和第二版有何区别？】\r\n1. 第三版新增约400个考研重点单词，收词更广、更全面。\r\n2. 第三版基于最新两年考研真题，更新部分单词的释义，新增若干真题考点搭配，词汇讲解更丰富。\r\n\r\n提示：在“按单元”背词模式下，可以按原书章节学习单词。",
+                "authorId": 1,
+                "description": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】在本书中，词条的讲解包含单词、音标、中文含义、考点搭配、派生词，内容简明扼要，重点突出。本书将考研核心词分为了约500个五星单词（LIST1-2）、900个四星词汇（LIST3-6）和3100个三星词汇（LIST7-20）。\r\n\r\n【词书特色】\r\n1. 两大考研一线教师心血之作，凝聚多年教学经验和精华。\r\n2. 本书选取近十余年考研真题中出现过的大纲词汇以及超纲词汇，列出了历年真题中出现的考点搭配和重要用法。\r\n3.8大背词时间、3大背词步骤、3大背词顺序，更多记忆方法，科学有效，十天突破考研词汇不再是梦！\r\n\r\n【第三版和第二版有何区别？】\r\n1. 第三版新增约400个考研重点单词，收词更广、更全面。\r\n2. 第三版基于最新两年考研真题，更新部分单词的释义，新增若干真题考点搭配，词汇讲解更丰富。\r\n\r\n提示：在“按单元”背词模式下，可以按原书章节学习单词。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20220311145253_cover bianxie.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4455954,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HEZTMMBTI44VQTSVF5AUGK3EI5XEO2SDKJHVQV2RGBQSW6JZHA3TQVJSF5GGYSRYNE2ES42OI5XW6PJWG4YTOMY=.dat?uid=10410209&vocabularyId=1167&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -21,
+                "wordSize": 3589,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【新书上线】2023版十天搞定考研词汇便携版",
+                "productId": 3735,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536710700039203400",
+                "isEntityBook": "1",
+                "entityBookProductId": 3756,
+                "entityBookProductName": "【实体书版】【新书上线】2023版十天搞定考研词汇便携版",
+                "entityBookSellPrice": "33",
+                "entityBookOrderState": null,
+                "bookStartPrice": "49",
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314174558_3331.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314174604_3332.png"
+                ]
+            },
+            {
+                "vocabularyId": 1146,
+                "targetId": 6,
+                "name": "【新书上线】2023版恋练不忘：考研英语词组",
+                "simpleName": "【词书简介】\r\n本书参考了考研英语大纲以及考研英语（一）和英语（二）历年真题，精心挑选了约1700个词组（含2022年真题词组）。书中包含真题词组和加分词组。真题词组为考研英语（一）和英语（二）历年真题中被考查过或出现过的词组，需要考生重点掌握。加分词组是考研英语大纲词汇相关的核心词组，它们属于考研考查的范畴，不仅所含单词是考研英语大纲词汇，词组本身也是将来有可能会考查到的内容，只有提前学习，才能有备无患。本书所有词组均搭配例句，部分词组拓展讲解重难点单词和同反义词词组，甚至词组辨析，讲解细致。\r\n\r\n【使用说明】\r\n本书分为21个章节，Day 01至Day 16为真题词组，Day 17至Day 21为加分词组，推荐每天背诵一个章节！\r\n",
+                "authorId": 1,
+                "description": "【词书简介】\r\n本书参考了考研英语大纲以及考研英语（一）和英语（二）历年真题，精心挑选了约1700个词组（含2022年真题词组）。书中包含真题词组和加分词组。真题词组为考研英语（一）和英语（二）历年真题中被考查过或出现过的词组，需要考生重点掌握。加分词组是考研英语大纲词汇相关的核心词组，它们属于考研考查的范畴，不仅所含单词是考研英语大纲词汇，词组本身也是将来有可能会考查到的内容，只有提前学习，才能有备无患。本书所有词组均搭配例句，部分词组拓展讲解重难点单词和同反义词词组，甚至词组辨析，讲解细致。\r\n\r\n【使用说明】\r\n本书分为21个章节，Day 01至Day 16为真题词组，Day 17至Day 21为加分词组，推荐每天背诵一个章节！\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20220120114016_20210910154038_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1003883,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GE2DCNZZKVFXOS2HMZZS6WDFJI4GIVLVHBSVAOKVGRQU43DKGFUTQNCTG5LHATCHNRWXU52UJQ2ECPJSG44TIOA=.dat?uid=10410209&vocabularyId=1146&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -20,
+                "wordSize": 1759,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【新书上线】2023版恋练不忘：考研英语词组",
+                "productId": 3619,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1061,
+                "targetId": 6,
+                "name": "【限时6元】考研英语词汇红宝书（最新便携版）",
+                "simpleName": "《考研英语词汇词根+联想记忆法：便携版》是新东方创始人俞敏洪老师的《考研英语词汇词根+联想记忆法》的便携版，是经典的“词根+联想”记忆法系列词汇书之一。本书自上市以来使数百万考研学子受益，可以称得上是人手一本的考研英语词汇口袋书、考生心目中的考研词汇“圣经”便携版，开本小巧，易于携带，可用来随时随地背诵单词。\r\n\r\n【《考研英语词汇红宝书（便携版）》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】\r\n\r\n【词书内容】\r\n完整收录大纲词汇，标记大纲新增词汇，补充超纲词。单词匹配中文释义、常考搭配、记忆法、同义词、派生词、词汇扩充等。\r\n\r\n【词书特色】\r\n1.词书覆盖全面；完整收录大纲词汇\r\n2.记忆方法高效；词根记忆以一当十，联想记忆简单轻松，发音记忆诙谐幽默\r\n3.词频分类编排；科学统计，词频排序，助你走出记忆怪圈\r\n4.知识适度扩展；记忆法+派生词+常考搭配+用法讲解+近义词，用有限的时间记更多的单词\r\n\r\n【出版时间】\r\n2021年4月\r\n",
+                "authorId": 1,
+                "description": "《考研英语词汇词根+联想记忆法：便携版》是新东方创始人俞敏洪老师的《考研英语词汇词根+联想记忆法》的便携版，是经典的“词根+联想”记忆法系列词汇书之一。本书自上市以来使数百万考研学子受益，可以称得上是人手一本的考研英语词汇口袋书、考生心目中的考研词汇“圣经”便携版，开本小巧，易于携带，可用来随时随地背诵单词。\r\n\r\n【《考研英语词汇红宝书（便携版）》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】\r\n\r\n【词书内容】\r\n完整收录大纲词汇，标记大纲新增词汇，补充超纲词。单词匹配中文释义、常考搭配、记忆法、同义词、派生词、词汇扩充等。\r\n\r\n【词书特色】\r\n1.词书覆盖全面；完整收录大纲词汇\r\n2.记忆方法高效；词根记忆以一当十，联想记忆简单轻松，发音记忆诙谐幽默\r\n3.词频分类编排；科学统计，词频排序，助你走出记忆怪圈\r\n4.知识适度扩展；记忆法+派生词+常考搭配+用法讲解+近义词，用有限的时间记更多的单词\r\n\r\n【出版时间】\r\n2021年4月\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210629143611_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4541158,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HA2TCNRYGYYGI5KOOU2VIQSMPB4UMWTTKNIUIR2NPBCVA3DEIZSGYSCTMR3UMR2TIRUFORLLM5BUKPJSGY4DCOI=.dat?uid=10410209&vocabularyId=1061&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 4539433,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/HA3DIMJVOZGWWM3VG5EVGWDFGM4WMRTXMUVTCZDCMRMFUTSQIRUU64TWKUYDSWJUI5ZS6KZXLJ3E2PJVGU3DKOA=.dat?uid=10410209&vocabularyId=1061&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -19,
+                "wordSize": 4087,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "18",
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【限时6元】考研英语词汇红宝书（最新便携版）",
+                "productId": 3008,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75110416000030003840",
+                "isEntityBook": "1",
+                "entityBookProductId": 3062,
+                "entityBookProductName": "【实体书版】【限时6元】考研英语词汇红宝书（最新便携版）",
+                "entityBookSellPrice": "22",
+                "entityBookOrderState": null,
+                "bookStartPrice": "30",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314180204_7771.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314180212_7772.png"
+                ]
+            },
+            {
+                "vocabularyId": 1110,
+                "targetId": 6,
+                "name": "20天背完考研英语（二）核心词汇",
+                "simpleName": "【词书内容】\r\n编者精心研究历年考研英语（二）真题，结合考试大纲，统计各词汇的考频，据此确定其中2000个核心单词收入本书，每个单词下只收录考试常考的释义、搭配、例句以及易错单词的辨析，让考生有的放矢，了解重点，对症下药。",
+                "authorId": 1,
+                "description": "【词书内容】\r\n编者精心研究历年考研英语（二）真题，结合考试大纲，统计各词汇的考频，据此确定其中2000个核心单词收入本书，每个单词下只收录考试常考的释义、搭配、例句以及易错单词的辨析，让考生有的放矢，了解重点，对症下药。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211021104712_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2873673,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G44DSNJTGM3FCVZLGZSWYUSZFNUFSQKCJRYEOWKENNDXEVS2NR3UK3ZLOVVVQ3CBPI3EYNRQOJHVKPJTHA2TQMA=.dat?uid=10410209&vocabularyId=1110&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -18,
+                "wordSize": 1997,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】20天背完考研英语（二）核心词汇",
+                "productId": 3349,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536689200042003210",
+                "isEntityBook": "1",
+                "entityBookProductId": 3439,
+                "entityBookProductName": "【实体书版】20天背完考研英语（二）核心词汇",
+                "entityBookSellPrice": "30",
+                "entityBookOrderState": null,
+                "bookStartPrice": "42",
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": [
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314175724_6661.png",
+                    "http://vocabulary.ileci.com/vocabulary/icon/20220314175732_6662.png"
+                ]
+            },
+            {
+                "vocabularyId": 1121,
+                "targetId": 6,
+                "name": "2023版恋练有词考研词汇-加分宝",
+                "simpleName": "该书为2023版恋练有词考研词汇-加分宝，收录2186个简单词（四级没过的同学必看），1560个0频词和535个超纲词（适用于想要冲刺80分以上的同学）。\r\n提示：建议使用分单元背词，可根据自身的实际情况，直接进入自己想要学习的模块。",
+                "authorId": 1,
+                "description": "该书为2023版恋练有词考研词汇-加分宝，收录2186个简单词（四级没过的同学必看），1560个0频词和535个超纲词（适用于想要冲刺80分以上的同学）。\r\n提示：建议使用分单元背词，可根据自身的实际情况，直接进入自己想要学习的模块。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211116163819_jiafenbaocover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2585733,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GIYDKOBQJVDEY5DYGIVU6RZQKZYWG2ZTJFDXGODGPBIFKMLCKNHU63CDGFRDGMLQGZTFQS3LN5TGGPJSGM2TMMY=.dat?uid=10410209&vocabularyId=1121&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 2585036,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GY4DCMZVJZ2GI33FLJZVINTHNNMTIU2TIZVGC42CMRMGO4CLF5CFSSCUJVCXS5KVOVAVO43JGQZVSPJRGMZDENI=.dat?uid=10410209&vocabularyId=1121&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    }
+                ],
+                "ordinal": -15,
+                "wordSize": 4281,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "5",
+                "sellPrice": "5",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "2023版恋练有词考研词汇-加分宝",
+                "productId": 3443,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1027,
+                "targetId": 6,
+                "name": "考研英语词汇大全 词根+词缀记忆法【核心词】",
+                "simpleName": "俞敏洪老师全新力作，新东方在线考研英语备考指定用书\r\n\r\n【词书内容】\r\n本书核心词汇部分按照词汇记忆方法将考研历年常考词汇划分为三大板块，分别为词根、前缀和后缀。又将352个词根按照词频，分为三部分：117个高频词根、141个中频词根和94个低频词根。词缀部分包括38个考研常见前缀和48个考研常见后缀。\r\n\r\n【词书特色】\r\n1.常用词根词缀，全面覆盖\r\n2.词根词缀讲解，提升猜词能力\r\n3.标示词频进度，集中攻克难点\r\n4.科学记忆方法，记忆障碍一扫而光\r\n5.标示考过词义，便于掌握常考释义\r\n6.真题例句+考点+衍生补充=完整单词记忆发\"\r\n",
+                "authorId": 1,
+                "description": "俞敏洪老师全新力作，新东方在线考研英语备考指定用书\r\n\r\n【词书内容】\r\n本书核心词汇部分按照词汇记忆方法将考研历年常考词汇划分为三大板块，分别为词根、前缀和后缀。又将352个词根按照词频，分为三部分：117个高频词根、141个中频词根和94个低频词根。词缀部分包括38个考研常见前缀和48个考研常见后缀。\r\n\r\n【词书特色】\r\n1.常用词根词缀，全面覆盖\r\n2.词根词缀讲解，提升猜词能力\r\n3.标示词频进度，集中攻克难点\r\n4.科学记忆方法，记忆障碍一扫而光\r\n5.标示考过词义，便于掌握常考释义\r\n6.真题例句+考点+衍生补充=完整单词记忆发\"\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210415092256_fengmian.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3813871,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HEZDMNJZNZBE2T22LJLUCL2ZPBMU23CWMRDFGT2WGJGE2MSRN5BEO5RYGRCUC33KIFTWM3DTOJQW6PJWHA3TKNY=.dat?uid=10410209&vocabularyId=1027&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3813030,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GIYDIOJSIZ5EIN3YJE2EGWBLJBQSWNRRM5IFQVTWONYE4RKFNZGUEL3ROBIUETDOOFUVCWTJM54GGPJQGM2TEMQ=.dat?uid=10410209&vocabularyId=1027&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 3814646,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/G4YDGMBWIZ5EIN3YJE2EGWBLJBQSWNRRM5IFQVTWONYECOCNO5YE25CBIEXVEWDBIFGE42LLFMXWGPJXHAZDCMY=.dat?uid=10410209&vocabularyId=1027&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -14,
+                "wordSize": 2921,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "18",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "考研英语词汇大全 词根+词缀记忆法【核心词】",
+                "productId": 2801,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 708,
+                "targetId": 6,
+                "name": "恋练有词：考研英语（一）熟词僻义速记大全",
+                "simpleName": "【畅销图书】+10分不是梦！畅销500万册，短期突破，快速提分，专治“眼熟却不认识”！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n精选390个熟词辟义词汇，搭配中、英文释义，常考词组，真题例句。\r\n\r\n【词书特色】\r\n1. 精心收词，精选自2010-2019的10年真题，每套真题都经过多次筛词\r\n2. 重点突出，所收录单词按照真题考查位置，分为考点词汇（出现在题干和选项位置）和识记词汇（出现在非题干和选项位置）。\r\n3. 语境助记，每个僻义都配有精选真题例句，结合语境，更易理解。\r\n4. 双语释义，不仅提供中文释义，更参考剑桥、牛津、麦克米伦等英语词典给出英英释义；精准理解，自然扩词，胜过死背百遍！\r\n5. 贴心加注，对于词组中较难的核心词，加注；对于例句中涉及的文化背景，加注；理解背景，识记更牢！",
+                "authorId": 1,
+                "description": "【畅销图书】+10分不是梦！畅销500万册，短期突破，快速提分，专治“眼熟却不认识”！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n精选390个熟词辟义词汇，搭配中、英文释义，常考词组，真题例句。\r\n\r\n【词书特色】\r\n1. 精心收词，精选自2010-2019的10年真题，每套真题都经过多次筛词\r\n2. 重点突出，所收录单词按照真题考查位置，分为考点词汇（出现在题干和选项位置）和识记词汇（出现在非题干和选项位置）。\r\n3. 语境助记，每个僻义都配有精选真题例句，结合语境，更易理解。\r\n4. 双语释义，不仅提供中文释义，更参考剑桥、牛津、麦克米伦等英语词典给出英英释义；精准理解，自然扩词，胜过死背百遍！\r\n5. 贴心加注，对于词组中较难的核心词，加注；对于例句中涉及的文化背景，加注；理解背景，识记更牢！",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20191014120217_piyi1.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 506860,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GAZDKMRTKRXVS6CNLBRVS4DOJ5JTKTLKI5EEGZ3GJJXFAYTBJNAXC4ZSGRGHQQLFNJSTAUJLNBFVKPJXGQYTMMY=.dat?uid=10410209&vocabularyId=708&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -13,
+                "wordSize": 390,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】恋练有词：考研英语（一）熟词僻义速记大全",
+                "productId": 1638,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536893500032002080",
+                "isEntityBook": "1",
+                "entityBookProductId": 2864,
+                "entityBookProductName": "【实体书版】恋练有词：考研英语（一）熟词僻义速记大全",
+                "entityBookSellPrice": "33",
+                "entityBookOrderState": null,
+                "bookStartPrice": "32",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 710,
+                "targetId": 6,
+                "name": "恋练有词：考研英语（二）熟词僻义速记大全",
+                "simpleName": "【畅销图书】+10分不是梦！畅销500万册，短期突破，快速提分，专治“眼熟却不认识”！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n精选310个熟词辟义词汇，搭配中、英文释义，常考词组，真题例句。\r\n\r\n【词书特色】\r\n1. 精心收词，精选自2010-2019的10年真题，每套真题都经过多次筛词\r\n2. 重点突出，所收录单词按照真题考查位置，分为考点词汇（出现在题干和选项位置）和识记词汇（出现在非题干和选项位置）。\r\n3. 语境助记，每个僻义都配有精选真题例句，结合语境，更易理解。\r\n4. 双语释义，不仅提供中文释义，更参考剑桥、牛津、麦克米伦等英语词典给出英英释义；精准理解，自然扩词，胜过死背百遍！\r\n5. 贴心加注，对于词组中较难的核心词，加注；对于例句中涉及的文化背景，加注；理解背景，识记更牢！",
+                "authorId": 1,
+                "description": "【畅销图书】+10分不是梦！畅销500万册，短期突破，快速提分，专治“眼熟却不认识”！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n精选310个熟词辟义词汇，搭配中、英文释义，常考词组，真题例句。\r\n\r\n【词书特色】\r\n1. 精心收词，精选自2010-2019的10年真题，每套真题都经过多次筛词\r\n2. 重点突出，所收录单词按照真题考查位置，分为考点词汇（出现在题干和选项位置）和识记词汇（出现在非题干和选项位置）。\r\n3. 语境助记，每个僻义都配有精选真题例句，结合语境，更易理解。\r\n4. 双语释义，不仅提供中文释义，更参考剑桥、牛津、麦克米伦等英语词典给出英英释义；精准理解，自然扩词，胜过死背百遍！\r\n5. 贴心加注，对于词组中较难的核心词，加注；对于例句中涉及的文化背景，加注；理解背景，识记更牢！",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20191015100312_shucipiyi2.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 340301,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GI3TGMBQKVRG6N2YNF2DGTDSLFSTGU3QFNIDCNSLF5GGM6TJKRYEQ2LENAYE2ZSLJU3ECOCZF42E2PJRGM2DCMA=.dat?uid=10410209&vocabularyId=710&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -12,
+                "wordSize": 310,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】恋练有词：考研英语（二）熟词僻义速记大全",
+                "productId": 1640,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536893700032001680",
+                "isEntityBook": "1",
+                "entityBookProductId": 2865,
+                "entityBookProductName": "【实体书版】恋练有词：考研英语（二）熟词僻义速记大全",
+                "entityBookSellPrice": "33",
+                "entityBookOrderState": null,
+                "bookStartPrice": "32",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1111,
+                "targetId": 6,
+                "name": "【星火英语】考研英语词汇 星火式巧计速记",
+                "simpleName": "注：单词下方的数字标注的是该词在近十年考研真题中的考试频率\r\n\r\n【词书内容】\r\n本书根据历年真题和新大纲收词，提供单词的考频、考点、考义和考题，从各方面提高考生的应试能力。\r\n本书适用于准备参加研究生入学考试的学生，可作为考研英语学习的单词用书。\r\n\r\n【词书特点】\r\n1.最新真题 把握风向：收录2021考研真题例句，与“题”俱进\r\n2.核心释义 重点突出：总结历年真题词汇考点和难点，标注考频、考义、考点\r\n3.乱序排版 记得牢：打破字母顺序，以熟词为起点，乱序排版 ",
+                "authorId": 1,
+                "description": "注：单词下方的数字标注的是该词在近十年考研真题中的考试频率\r\n\r\n【词书内容】\r\n本书根据历年真题和新大纲收词，提供单词的考频、考点、考义和考题，从各方面提高考生的应试能力。\r\n本书适用于准备参加研究生入学考试的学生，可作为考研英语学习的单词用书。\r\n\r\n【词书特点】\r\n1.最新真题 把握风向：收录2021考研真题例句，与“题”俱进\r\n2.核心释义 重点突出：总结历年真题词汇考点和难点，标注考频、考义、考点\r\n3.乱序排版 记得牢：打破字母顺序，以熟词为起点，乱序排版 ",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211026143413_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4706774,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GA3TOMBYPFBWW3CIOZFDSRDMONVGEZ2OKRUEO6DSJFJHGR2ROBDVIZKDNBDDGT3KPBKS632EJ4XXGPJXHEZTEOI=.dat?uid=10410209&vocabularyId=1111&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    }
+                ],
+                "ordinal": -11,
+                "wordSize": 4024,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@星火英语",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "69.8",
+                "sellPrice": "25",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】【星火英语】考研英语词汇 星火式巧计速记",
+                "productId": 3363,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "978-7-313-18525-9",
+                "isEntityBook": "1",
+                "entityBookProductId": 3375,
+                "entityBookProductName": "【实体书版】【星火英语】考研英语词汇 星火式巧计速记",
+                "entityBookSellPrice": "50",
+                "entityBookOrderState": null,
+                "bookStartPrice": "69.8",
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 224,
+                "targetId": 6,
+                "name": "考研英语真题核心词汇",
+                "simpleName": "英语一、英语二均适用\r\n\r\n【词书内容】\r\n收录2000-2016年考研英语真题全部高频常考词汇，配真题例句、乐词官方记忆法。\r\n\r\n【词书特点】\r\n精选考试核心词，适合考前突击，快速题分！",
+                "authorId": 1,
+                "description": "英语一、英语二均适用\r\n\r\n【词书内容】\r\n收录2000-2016年考研英语真题全部高频常考词汇，配真题例句、乐词官方记忆法。\r\n\r\n【词书特点】\r\n精选考试核心词，适合考前突击，快速题分！",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628115831_zhenti.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4598419,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GUYDSMRWHFZWW6LIGA4UMZTNGZ3EWNLUJFEGK6CROFKW24SWONKHOOKEIR3SWSDMGFCFQTCCGA4USPJYG42DONQ=.dat?uid=10410209&vocabularyId=224&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 4599345,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GA4DMNRXJIXWIUCLFM3EOOKVJBITG2RTIFWCWRDLPJSTGWKEORTG6RDCKI4WMWD2LJ5FA3TKJBUTAPJXGI4DGOI=.dat?uid=10410209&vocabularyId=224&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -10,
+                "wordSize": 1624,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "12",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "考研英语真题核心词汇",
+                "productId": 388,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 281,
+                "targetId": 6,
+                "name": "保命28分：考研英语（二）",
+                "simpleName": "英语阅读28分不是梦，考研英语（二）阅读理解真题词汇强势来袭！\r\n\r\n【词书内容】\r\n覆盖2010-2016年共28篇真题文章，配乐词官方记忆法、词根、同根词。\r\n\r\n【词书特点】\r\n按年和篇章排序，每个单词配真题例句，帮助考生识别单词在真实考题语境中的释义，复习更有针对性。",
+                "authorId": 1,
+                "description": "英语阅读28分不是梦，考研英语（二）阅读理解真题词汇强势来袭！\r\n\r\n【词书内容】\r\n覆盖2010-2016年共28篇真题文章，配乐词官方记忆法、词根、同根词。\r\n\r\n【词书特点】\r\n按年和篇章排序，每个单词配真题例句，帮助考生识别单词在真实考题语境中的释义，复习更有针对性。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628115755_28-2.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1668549,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HEZTOMJUMRSTGUDCPFZUMNKILBNDM4LDJBIDI5JYLFUFEMZWN5HTC4RXLBMFIQSPNFCHSYLRF54VCPJQGYYDKNA=.dat?uid=10410209&vocabularyId=281&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 1668203,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/G44TAMRZIJHGOULPLBCGCY3WLJNGWSCHMYZDMMZTJVFFCL3ZM55FONCNKJGWI22IKFDEGYKUJVLFSPJWGIZDSNI=.dat?uid=10410209&vocabularyId=281&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 1668585,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GYZTQMBTNBLESNTOOJVEUS3QKB4XURLZJFHUG3LLGE3WUYRWMN4C6QLYJ5UGKR2VI5YVQ5ZTLBUWWPJZGEZTSMA=.dat?uid=10410209&vocabularyId=281&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -10,
+                "wordSize": 986,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "19.9",
+                "sellPrice": "8",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "保命28分：考研英语（二）",
+                "productId": 573,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 972,
+                "targetId": 6,
+                "name": "考研英语同源外刊精选词汇",
+                "simpleName": "【同源外刊】乐词考研阅读题源外刊课程精选词表，从题源搞定考研英语词汇！\r\n\r\n【词书内容】\r\n从一百余篇考研阅读同源外刊文章中筛选重点词汇，搭配释义、真题例句、外刊原文例句。\r\n\r\n【词书特色】\r\n1. 精心收词，重点突出，巩固记忆外刊中出现的重难点词汇。\r\n2. 精选真题例句和外刊原文例句，结合语境，更易理解。\r\n",
+                "authorId": 1,
+                "description": "【同源外刊】乐词考研阅读题源外刊课程精选词表，从题源搞定考研英语词汇！\r\n\r\n【词书内容】\r\n从一百余篇考研阅读同源外刊文章中筛选重点词汇，搭配释义、真题例句、外刊原文例句。\r\n\r\n【词书特色】\r\n1. 精心收词，重点突出，巩固记忆外刊中出现的重难点词汇。\r\n2. 精选真题例句和外刊原文例句，结合语境，更易理解。\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200911110244_COVER 2.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2006608,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GY4TCNBWJY2UC3SHNBDDANK2OJHGYNBPKFEGCNDDME3VGVTVNFVXUOLQJE3XUTSYNVCE42KJIRGWOPJQGAYTAOI=.dat?uid=10410209&vocabularyId=972&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -9,
+                "wordSize": 2381,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "8",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "考研英语同源外刊精选词汇",
+                "productId": 2267,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1118,
+                "targetId": 6,
+                "name": "2023版恋练有词考研词汇-速刷版",
+                "simpleName": "【词书内容】\r\n本书为恋练有词速刷版(只收录单词和释义)，适合有快速刷词需求的考生！\r\n\r\n本书包含2468个核心词和1118个1频词（分单元背词模式下，前21个单元为核心词）\r\n",
+                "authorId": 1,
+                "description": "【词书内容】\r\n本书为恋练有词速刷版(只收录单词和释义)，适合有快速刷词需求的考生！\r\n\r\n本书包含2468个核心词和1118个1频词（分单元背词模式下，前21个单元为核心词）\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211119143153_sushua cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3358128,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GEYTSMJVOJUESMCBPBMDSYLEOVKDCZ2UII4DMV3DGFYGC5BUN5UGC5KVGB3EKRBZKBEGUK2UHEZTIPJTGU4TMMY=.dat?uid=10410209&vocabularyId=1118&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": -9,
+                "wordSize": 3573,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "20",
+                "orderState": "1",
+                "freeState": 0,
+                "productName": "2023版恋练有词考研词汇-速刷版",
+                "productId": 3412,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 676,
+                "targetId": 6,
+                "name": "考研必备高频词",
+                "simpleName": "英语一、英语二均适用\r\n\r\n【词书内容】\r\n根据近年来考研英语考试真题，分析单词考频，精选930个必考词汇。",
+                "authorId": 1,
+                "description": "英语一、英语二均适用\r\n\r\n【词书内容】\r\n根据近年来考研英语考试真题，分析单词考频，精选930个必考词汇。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190822085826_gaopin.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1656020,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GM3DAOJXKNZHK42FKRRU6TBVO5UHMS3IGZCFG2CDPJIUOSSXOVTGS23PJVGUYL2VKFRHIMLRK5SHOPJWGM4DQMY=.dat?uid=10410209&vocabularyId=676&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -7,
+                "wordSize": 930,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 981,
+                "targetId": 6,
+                "name": "2022版恋练有词考研词汇",
+                "simpleName": "【销量过万】数百万考研人的一致选择！新东方恋练有词绿皮书，俞敏洪老师主编，考研英语词汇书畅销品牌！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n收录历年考研常考单词约3800个，配以考过释义、记忆方法、真题考点搭配和真题例句。\r\n\r\n【词书特色】\r\n1. 紧扣考研大纲和真题，收词全面\r\n2. 按真题词频分高中低频，重点突出\r\n3. 词群记忆搭配“词根+联想”记忆法\r\n4. 结合真题切片和例句，记词学词更高效\r\n5. 收录2020真题例句，标注2021大纲变动词",
+                "authorId": 1,
+                "description": "【销量过万】数百万考研人的一致选择！新东方恋练有词绿皮书，俞敏洪老师主编，考研英语词汇书畅销品牌！\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n收录历年考研常考单词约3800个，配以考过释义、记忆方法、真题考点搭配和真题例句。\r\n\r\n【词书特色】\r\n1. 紧扣考研大纲和真题，收词全面\r\n2. 按真题词频分高中低频，重点突出\r\n3. 词群记忆搭配“词根+联想”记忆法\r\n4. 结合真题切片和例句，记词学词更高效\r\n5. 收录2020真题例句，标注2021大纲变动词",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20201228100803_2222.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4083185,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQYTSOJXIRKUSUTKOZTE23DPKIYSWZLUIMYXQNRPKJEXGOJUO5BES6SJINUW6SJVJZYVCNLVHFJWWPJUHEYTIMQ=.dat?uid=10410209&vocabularyId=981&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 4081897,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/G4ZTINBWJRLUURKNOBYXMVSLPIVWEYTHN52DM6KLHBEW2WDGMU4DQTJQN5WWITCFGRIXCU2FPFCFSPJQG43DEOI=.dat?uid=10410209&vocabularyId=981&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 4081989,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GM2DENZUGNMTONKEJ5DDSRRZGE2VUZDMKV3GMSDULBMFKZCTMZQTKSKVGNWXAOLGOVXWK222KFCXOPJRGAZDQNY=.dat?uid=10410209&vocabularyId=981&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -6,
+                "wordSize": 3845,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "2022版恋练有词考研词汇",
+                "productId": 2476,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75193061200068004640",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": "68",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 974,
+                "targetId": 6,
+                "name": "2021考研英语大纲词汇变动表",
+                "simpleName": "【6月16日-20日，618考神狂欢节，全场电子词书限时6.6折】\r\n\r\n根据2021年最新考研英语大纲，整理汇编大纲中新增词汇，并搭配助记例句。\r\n",
+                "authorId": 1,
+                "description": "【6月16日-20日，618考神狂欢节，全场电子词书限时6.6折】\r\n\r\n根据2021年最新考研英语大纲，整理汇编大纲中新增词汇，并搭配助记例句。\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200914110836_new words cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 113312,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GEZTGMRWK5RW2MSEF5EXE4S2FNXE6NLJOAZC66DVOJWFQQSNOZUWWY2TNZJUI23QJJIDIZ3RGVIVCPJYGU4TIMI=.dat?uid=10410209&vocabularyId=974&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -5,
+                "wordSize": 134,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "3",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "2021考研英语大纲词汇变动表",
+                "productId": 2270,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 677,
+                "targetId": 6,
+                "name": "2020版考研：考纲附录词表",
+                "simpleName": "【词书内容】\r\n收录2020考研大纲附录新增国家（地区）、地理词汇149词。方便考生单独记忆新增词汇。适用于2020年和2021年考生。",
+                "authorId": 1,
+                "description": "【词书内容】\r\n收录2020考研大纲附录新增国家（地区）、地理词汇149词。方便考生单独记忆新增词汇。适用于2020年和2021年考生。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190822085922_fulu.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 69331,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQYDKNZYPBWFGNLVK5UXI3JPMIYHQ6SSNV3FSM2ZOFDU6Y3COZWXU2TLIVTGGNZLKJDDQL2KIZDW6PJUGQ2DMNY=.dat?uid=10410209&vocabularyId=677&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "大纲词汇",
+                        "labelCode": 19
+                    },
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 9,
+                "wordSize": 149,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 966,
+                "targetId": 6,
+                "name": "2021版十天搞定考研词汇便携版",
+                "simpleName": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n1. 本书选取近十余年考研真题中出现过的大纲词汇以及超纲词汇，列出了历年真题中出现的考点搭配和重要用法，收词覆盖面广，讲解重点突出。\r\n2. 收录原书全部主词、派生词、考点搭配等。\r\n\r\n【词书特色】\r\n1. 两大考研一线教师心血之作，凝聚多年教学经验和精华。\r\n2. 新增近几年真题词汇，汲取精华，一本在手，真题再无生词。\r\n3. 8大背词时间、3大背词步骤、3大背词顺序，科学有效，十天突破考研词汇不再是梦！",
+                "authorId": 1,
+                "description": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n1. 本书选取近十余年考研真题中出现过的大纲词汇以及超纲词汇，列出了历年真题中出现的考点搭配和重要用法，收词覆盖面广，讲解重点突出。\r\n2. 收录原书全部主词、派生词、考点搭配等。\r\n\r\n【词书特色】\r\n1. 两大考研一线教师心血之作，凝聚多年教学经验和精华。\r\n2. 新增近几年真题词汇，汲取精华，一本在手，真题再无生词。\r\n3. 8大背词时间、3大背词步骤、3大背词顺序，科学有效，十天突破考研词汇不再是梦！",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200803151607_bian.jpg",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3252011,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GI4DKMZXKUYTK4JSNZXDIRDMNUXUYRLYM5JFOTTZIZWE2V2PJ5KVK4CTOVGTMS3TJUZXIYKRI5VFCPJXGU4TSNA=.dat?uid=10410209&vocabularyId=966&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3250185,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/HE3TQMJWNNFECMZPOVJDITLCIVAXK3LQJJBEU5KZIRFVE5TKNRQTS4DLJRVW6M3YPJMDK4SDJFUG6PJTGU3TCNA=.dat?uid=10410209&vocabularyId=966&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 12,
+                "wordSize": 3588,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】2021版十天搞定考研词汇便携版",
+                "productId": 2188,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536710700039003400",
+                "isEntityBook": "1",
+                "entityBookProductId": 2868,
+                "entityBookProductName": "【实体书版】2021版十天搞定考研词汇便携版",
+                "entityBookSellPrice": "33",
+                "entityBookOrderState": null,
+                "bookStartPrice": "39",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 612,
+                "targetId": 6,
+                "name": "研词：考研英语词汇大全解",
+                "simpleName": "新东方在线硕士研究生考试研究中心编著，考研英语高分通关系列图书。\r\n\r\n【词书内容】\r\n1. 以“考频”概念为基准，从2007-2019年这13年真题中精心筛选出有效单词1939个。                   \r\n2. 以“核心词+拓展词”的方式展开呈现，利用“真题例句”还原真实语境，帮助考生轻松掌握考研英语的核心词。\r\n                                                                                                                                                                                  【词书特色】                                                              \r\n以“考频”为基准，以“词根词缀”为基础，以真题切片为例句，帮你全面秒杀大纲词汇5500。                                   ",
+                "authorId": 1,
+                "description": "新东方在线硕士研究生考试研究中心编著，考研英语高分通关系列图书。\r\n\r\n【词书内容】\r\n1. 以“考频”概念为基准，从2007-2019年这13年真题中精心筛选出有效单词1939个。                   \r\n2. 以“核心词+拓展词”的方式展开呈现，利用“真题例句”还原真实语境，帮助考生轻松掌握考研英语的核心词。\r\n                                                                                                                                                                                  【词书特色】                                                              \r\n以“考频”为基准，以“词根词缀”为基础，以真题切片为例句，帮你全面秒杀大纲词汇5500。                                   ",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200203170350_yanci.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2717359,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G42TGNZQIVEW6UKCNB3GW4JXPBCGY23RNMYGU4KRKZ2DAUTTIYZDISLZIQ4DANTMKFNDMRLVGVSG6PJWGUZTANI=.dat?uid=10410209&vocabularyId=612&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 2716847,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GI3TIMRTHFCG2QKGOVLEGWK2ON2FK6LYMJBWKNBLGRXXAULFNVSXML3RGRITCQ2UJJMGS4ZZGVIUKPJYGMYDIOI=.dat?uid=10410209&vocabularyId=612&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 13,
+                "wordSize": 1939,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@北京理工大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "19.9",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "研词：考研英语词汇大全解",
+                "productId": 1425,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 975,
+                "targetId": 6,
+                "name": "2021版十天搞定考研词汇乱序版",
+                "simpleName": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n1. 选取近十余年考研真题中出现过的大纲词汇以及超纲词汇，列出了历年真题中出现的考点搭配和重要用法，收词覆盖面广，讲解重点突出。\r\n2. 主词搭配记忆法、例句、派生词、考点搭配、重要用法及精选历年真题例句，在语境中学习词汇，效果更加。\r\n3. 书中囊括各种高效的记忆方法，如：词根记忆、联想记忆、谐趣记忆等。\r\n\r\n【词书特色】\r\n1. 两大考研一线教师心血之作，凝聚多年教学经验和精华。\r\n2. 新增近几年真题词汇，汲取精华，一本在手，真题无忧。",
+                "authorId": 1,
+                "description": "【畅销词书】新东方一线教师王江涛、刘文涛联手力作，用艾宾浩斯记忆规律背单词，对抗遗忘，科学背词，十天突破考研真题词汇\r\n\r\n【电子版搭配实体书背词更高效，优惠购书实体包邮】\r\n\r\n【词书内容】\r\n1. 选取近十余年考研真题中出现过的大纲词汇以及超纲词汇，列出了历年真题中出现的考点搭配和重要用法，收词覆盖面广，讲解重点突出。\r\n2. 主词搭配记忆法、例句、派生词、考点搭配、重要用法及精选历年真题例句，在语境中学习词汇，效果更加。\r\n3. 书中囊括各种高效的记忆方法，如：词根记忆、联想记忆、谐趣记忆等。\r\n\r\n【词书特色】\r\n1. 两大考研一线教师心血之作，凝聚多年教学经验和精华。\r\n2. 新增近几年真题词汇，汲取精华，一本在手，真题无忧。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200915134907_shitianfengmianzuizhongtu.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 4112011,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HA3TKNJVNFFVUYLUOFKWCNTJGBNGWOJQKNGTA5TGGNAW63RVNRBVOVLMI52FKV2NJBFUCT3RF5VUCPJTHAZDKNQ=.dat?uid=10410209&vocabularyId=975&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 13,
+                "wordSize": 3414,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "2021版十天搞定考研词汇乱序版",
+                "productId": 2274,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536805700058004880",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": "58",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1124,
+                "targetId": 6,
+                "name": "考研词汇闪过",
+                "simpleName": "【词书内容】\r\n完整收录《考研词汇闪过》高频词前6个单元的内容。\r\n\r\n【词书特点】\r\n1.按考频划出“重点词”：记忆量减少，当然省时间！\r\n2.搭配真题短语：记在考点上，当然省时间！\r\n3.不同单词，不同记忆法：用对记忆法，当然省时间！",
+                "authorId": 1,
+                "description": "【词书内容】\r\n完整收录《考研词汇闪过》高频词前6个单元的内容。\r\n\r\n【词书特点】\r\n1.按考频划出“重点词”：记忆量减少，当然省时间！\r\n2.搭配真题短语：记在考点上，当然省时间！\r\n3.不同单词，不同记忆法：用对记忆法，当然省时间！",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211122151242_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1246428,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GUYDINZYI42FMS3IKRUWYZDXOFEG2ZTSF44DILZSIZTDS6RLNBVUQN3LGRVWWWSQIJDU6QLSJVCWOPJYGM2TCOA=.dat?uid=10410209&vocabularyId=1124&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 13,
+                "wordSize": 514,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@巨微英语",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 1,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1000,
+                "targetId": 6,
+                "name": "翻译硕士必备一万词",
+                "simpleName": "市面少有的翻译硕士英语定制词表，主词搭配释义、例句等。",
+                "authorId": 1,
+                "description": "市面少有的翻译硕士英语定制词表，主词搭配释义、例句等。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210125133616_zaixianyong.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 8903700,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GA2TIMJWF5MHA222J4VVCOCCJJ3VEQ3ENU3TOTDXMY2TMRTYIQXTAMRPMUYHQN3OKNFWCTCGM5UFSPJVGEZDEMI=.dat?uid=10410209&vocabularyId=1000&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 16,
+                "wordSize": 10380,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "25",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "翻译硕士必备一万词",
+                "productId": 2640,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 248,
+                "targetId": 6,
+                "name": "考研英语词汇红宝书（便携版）",
+                "simpleName": "俞敏洪老师经典之作，口碑之选，深受广大考研学子喜爱，备战考研，值得信赖\r\n\r\n【《考研英语词汇红宝书（便携版）》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】\r\n\r\n【词书内容】\r\n1. 收录4315个大纲词汇，覆盖四类核心词（高频、常考、中频、低频）和超纲词。\r\n2. 主词搭配记忆法、考点、派生词、辨析和用法。\r\n3. 匹配乐词官方词根、同根词。\r\n\r\n【词书特色】\r\n1. 词汇覆盖全面，完整收录考研大纲词汇。   \r\n2. 记忆方法高效，词根记忆以一当十，联想记忆便捷轻松，发音记忆诙谐幽默。\r\n3. 词频分类编排，科学统计，词频排序，助你走出记忆怪圈。\r\n4. 知识适度扩展，词根记忆+联想记忆+发音记忆+派生词+常考搭配+用法讲解+近义词辨析，用有限的时间记忆更多的单词。",
+                "authorId": 1,
+                "description": "俞敏洪老师经典之作，口碑之选，深受广大考研学子喜爱，备战考研，值得信赖\r\n\r\n【《考研英语词汇红宝书（便携版）》+《恋练不忘：考研英语词组》（需单独购买），单词+短语，背词更会用词，考研英语词汇彻底搞定！】\r\n\r\n【词书内容】\r\n1. 收录4315个大纲词汇，覆盖四类核心词（高频、常考、中频、低频）和超纲词。\r\n2. 主词搭配记忆法、考点、派生词、辨析和用法。\r\n3. 匹配乐词官方词根、同根词。\r\n\r\n【词书特色】\r\n1. 词汇覆盖全面，完整收录考研大纲词汇。   \r\n2. 记忆方法高效，词根记忆以一当十，联想记忆便捷轻松，发音记忆诙谐幽默。\r\n3. 词频分类编排，科学统计，词频排序，助你走出记忆怪圈。\r\n4. 知识适度扩展，词根记忆+联想记忆+发音记忆+派生词+常考搭配+用法讲解+近义词辨析，用有限的时间记忆更多的单词。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210609102729_kaoyanhongbaoshu_20210609102654.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3479711,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HE4TEOBRNBJUK5CGKZEDA5TDMZCTM5RRGY2UMK3RNYYVIV32IYYGERTIIUYWCQRWIEYWE2JWGVQW6PJWGAZTEOA=.dat?uid=10410209&vocabularyId=248&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3478904,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GYYDKOBWGY2HQURXF5ESW4RZNJRG6NCRNRYXMR2MJFDHGVTDKV3UWNBYOVQSWSK2NRIEYUK2JVJESPJXGAYDANA=.dat?uid=10410209&vocabularyId=248&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 3480896,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GY4TGMJRI5IVKSBZG54VO2SOJUYFMY2NM5ZUIM2WIR3DCNSYNNMCWOBZNV2EQTDVLB2W6TZUJMXU2PJSGQ2DGMQ=.dat?uid=10410209&vocabularyId=248&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 18,
+                "wordSize": 4315,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "16",
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "考研英语词汇红宝书（便携版）",
+                "productId": 411,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1074,
+                "targetId": 6,
+                "name": "2022版恋练不忘：考研英语词组",
+                "simpleName": "【词书简介】\r\n《恋练不忘：考研英语词组识记与应用大全》是新东方恋练有词团队为广大考生量身打造的旨在夯实英语基础和考研英语应试能力的图书。全书参考了考研英语大纲以及考研英语（一）和英语（二）历年真题，精心挑选了约1700个词组（含2021年真题词组），希望能够帮助读者快速、有重点地掌握考研英语词组，克服英语理解障碍，提升考研英语成绩。\r\n\r\n全书包含必背词组和加分词组。必背词组为考研英语（一）和英语（二）历年真题中被考查过或出现过的词组，需要考生重点掌握。加分词组是考研英语大纲词汇相关的核心词组，它们属于考研考查的范畴，不仅所含单词是考研英语大纲词汇，词组本身也是将来有可能会考查到的内容，只有提前学习，才能有备无患。本书所有词组均搭配例句，部分词组拓展讲解重难点单词和同反义词词组，甚至词组辨析，讲解细致。\r\n\r\n【词书特色】\r\n内容丰富：本书不仅包含考研英语（一）和英语（二）真题词组，包括了考研英语大纲词相关的其他核心词组，内容更全面，更能满足备考需要。\r\n语境助记：所有词组均提供例句，其中大部分为真题例句，少量为题源例句，帮助考生对所学内容进行强化巩固。\r\n音频跟读：所有词组及例句均提供配套音频，适合跟读、模仿，同步练习听力和口语。\r\n",
+                "authorId": 1,
+                "description": "【词书简介】\r\n《恋练不忘：考研英语词组识记与应用大全》是新东方恋练有词团队为广大考生量身打造的旨在夯实英语基础和考研英语应试能力的图书。全书参考了考研英语大纲以及考研英语（一）和英语（二）历年真题，精心挑选了约1700个词组（含2021年真题词组），希望能够帮助读者快速、有重点地掌握考研英语词组，克服英语理解障碍，提升考研英语成绩。\r\n\r\n全书包含必背词组和加分词组。必背词组为考研英语（一）和英语（二）历年真题中被考查过或出现过的词组，需要考生重点掌握。加分词组是考研英语大纲词汇相关的核心词组，它们属于考研考查的范畴，不仅所含单词是考研英语大纲词汇，词组本身也是将来有可能会考查到的内容，只有提前学习，才能有备无患。本书所有词组均搭配例句，部分词组拓展讲解重难点单词和同反义词词组，甚至词组辨析，讲解细致。\r\n\r\n【词书特色】\r\n内容丰富：本书不仅包含考研英语（一）和英语（二）真题词组，包括了考研英语大纲词相关的其他核心词组，内容更全面，更能满足备考需要。\r\n语境助记：所有词组均提供例句，其中大部分为真题例句，少量为题源例句，帮助考生对所学内容进行强化巩固。\r\n音频跟读：所有词组及例句均提供配套音频，适合跟读、模仿，同步练习听力和口语。\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20210910154038_cover.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 952324,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GE2TCMJZOZLVAQZTGN5G6RSIMFVFAZKJIM2FA2KIHBWUGTTNF4VVI4ZPLEZS6K2NPFIEKOBTO5JUCPJTGQ3DENA=.dat?uid=10410209&vocabularyId=1074&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": " 8折优惠",
+                        "labelCode": 21
+                    }
+                ],
+                "ordinal": 19,
+                "wordSize": 1732,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "2022版恋练不忘：考研英语词组",
+                "productId": 3251,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 631,
+                "targetId": 6,
+                "name": "考研高分核心词",
+                "simpleName": "英语一、英语二均适用\r\n\r\n【词书内容】\r\n本书选取近十余年考研真题中出现过的最高频最核心的词汇，列出了历年真题中出现的考点搭配和重要用法，收词覆盖面广，讲解重点突出。",
+                "authorId": 1,
+                "description": "英语一、英语二均适用\r\n\r\n【词书内容】\r\n本书选取近十余年考研真题中出现过的最高频最核心的词汇，列出了历年真题中出现的考点搭配和重要用法，收词覆盖面广，讲解重点突出。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20191113165517_fengmain.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1258724,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G44TMNJTNR5GOWDQOJDEIWDJK42VEQSSGJHUOR2BLJLWI3BRK5HHMRJYO5AVAZSJOAYEWQTXMV4W6PJTGM3TQMA=.dat?uid=10410209&vocabularyId=631&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 24,
+                "wordSize": 889,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "考研高分核心词",
+                "productId": 1674,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            }
+        ],
+        "tagDes": "",
+        "androidgroupkey": "",
+        "prompt": "",
+        "iosgroupkey": ""
+    },
+    "temp": 0
+}

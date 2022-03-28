@@ -1,0 +1,977 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": {
+        "dataVocabulary": [
+            {
+                "templateType": 1,
+                "activityID": 775,
+                "flag": 0,
+                "activityStatus": 0,
+                "productPrice": "99",
+                "originalPrice": "199",
+                "collagePrice": "59",
+                "openReserve": null,
+                "isCollage": 1,
+                "heading": "502托福听力核心词10天打卡11期",
+                "resume": "",
+                "selectionPic": "http://img1.ileci.com/product/pic/20200615184745_0200212144239.png",
+                "tagType": 0
+            },
+            {
+                "vocabularyId": 3,
+                "targetId": 3,
+                "name": "托福全部词汇",
+                "simpleName": "精选托福考试必背词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及同根词等拓展内容！",
+                "authorId": 1,
+                "description": "精选托福考试必背词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及同根词等拓展内容！",
+                "description2": "适合全面掌握应考词汇",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628100153_TOEFLall.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/100persent_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 6904078,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/HA4DIMRVKVUHASJYKRJVM4BRIN5DAYKII54HGVSBPBSUI4CEMMZVIT2FPFVHAL3PIFQVKSCSPFZVCPJVGQ4DGNQ=.dat?uid=10410209&vocabularyId=3&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 6901689,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GE3TINZSFNXUGMJXJVFHQZKBO5IXGYSFOB3USWCRKQ2DKTJZPFAVCRDNGVCWIVKONAYGC6DHN5DFKPJZHE4DGMY=.dat?uid=10410209&vocabularyId=3&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 6901961,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GQYTQMRZNBEGSS2RPFFTQ6TJMZYEQODCLBHVI4JZO44DE3DVNVBDQ3TDM5VHEUTKGJYW442ZM5FVKPJUGY4DIMQ=.dat?uid=10410209&vocabularyId=3&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -10,
+                "wordSize": 4263,
+                "defaultSound": "US",
+                "fileSize": 248302,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您切换到核心词汇背诵。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GQ4TMMZQM5DDOZRQFNRGC6LDIUXWGZ2NNFEXI3SOJEYFGVJYGJGDM6KWKVWWSV3EGNTFUL2FORKUCPJVHEYTSMA=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 589,
+                "targetId": 3,
+                "name": "托福红宝书：45天突破版",
+                "simpleName": "【经典力作，持续畅销】\r\n俞敏洪老师经典力作，持续畅销，完整收录雅思常考词汇，“词根+联想”记忆科学实用，“零基础”备考强推！\r\n\r\n【词书内容】\r\n1. 本书以托福考试为依据，选取了约3,900个核心单词及670多个核心词组，并补充大量的派生词及相关单词，共收录约8,000个常用单词。此外，本书为部分单词配以同义词，增加了真题场景，设计了实用的项目。\r\n\r\n2. 与中文的偏旁部首类似，英文单词由大量的词根、词缀构成。掌握常见的词根、词缀，即可以此为支点，拓展记忆海量单词。\r\n\r\n【词书特色】\r\n1. 重点词汇“一网打尽”，单词无序胜有序。\r\n2.“词根＋联想”，词汇障碍一扫而光。\r\n3. 原汁原味例句，模拟考试语境。",
+                "authorId": 1,
+                "description": "【经典力作，持续畅销】\r\n俞敏洪老师经典力作，持续畅销，完整收录雅思常考词汇，“词根+联想”记忆科学实用，“零基础”备考强推！\r\n\r\n【词书内容】\r\n1. 本书以托福考试为依据，选取了约3,900个核心单词及670多个核心词组，并补充大量的派生词及相关单词，共收录约8,000个常用单词。此外，本书为部分单词配以同义词，增加了真题场景，设计了实用的项目。\r\n\r\n2. 与中文的偏旁部首类似，英文单词由大量的词根、词缀构成。掌握常见的词根、词缀，即可以此为支点，拓展记忆海量单词。\r\n\r\n【词书特色】\r\n1. 重点词汇“一网打尽”，单词无序胜有序。\r\n2.“词根＋联想”，词汇障碍一扫而光。\r\n3. 原汁原味例句，模拟考试语境。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190125104247_TOEFL.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3659953,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GY2DMOBWKFWFKZDPO4XTG4RWJY4E4VBQIZMUQV2JJJTGO5RWJRMWORCCJN4VI6LILJSTE2ZVLJUVKPJYGQZTIOI=.dat?uid=10410209&vocabularyId=589&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 3660233,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GA3TOMBTINRGQV2XKR3GW5KNLE3TMTSRHEYHITTKKJKXKTCZO5VFE22WNJBU6UDPKU4FU2DEFNYTQPJSGI4DCOI=.dat?uid=10410209&vocabularyId=589&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -9,
+                "wordSize": 3606,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@群言出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "19.9",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】托福红宝书：45天突破版",
+                "productId": 1350,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536925100055005320",
+                "isEntityBook": "1",
+                "entityBookProductId": 3091,
+                "entityBookProductName": "【实体书版】托福红宝书：45天突破版",
+                "entityBookSellPrice": "37",
+                "entityBookOrderState": null,
+                "bookStartPrice": "67",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 23,
+                "targetId": 3,
+                "name": "托福核心词汇",
+                "simpleName": "精选托福考试真题核心词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及同根词等拓展内容！",
+                "authorId": 1,
+                "description": "精选托福考试真题核心词汇，主词匹配中英文释义、例句、乐词官方记忆法、乐词官方词根词缀及同根词等拓展内容！",
+                "description2": "方便学生高效学习",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628100218_hexin.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/starpart_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 3221285,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/HE2DANZVOJNG6TCGJVWUW5SZKBLUSM2KGF4GIWDBM5CUQM3WJZUEQL2RJ5GGSM2BJBHTGZJUIFHESPJUGAYDANY=.dat?uid=10410209&vocabularyId=23&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 3221517,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/G42DAOBSNRLEIVRTN44EGVCXONZGYZ3CIVFEY4TBMR2FQ2TFGJDFISSBFNSFAM2XKE2WU4CVPBEWWPJWGY3TSMQ=.dat?uid=10410209&vocabularyId=23&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 3223163,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GY2DCMBZIRAWQRLWIFYUCK3XHBKU6RJVMMZECVJXO5FSWMLIIEZEI4KRGZGEQQTINQYXC3DYIFJDQPJVHA2TCNY=.dat?uid=10410209&vocabularyId=23&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -8,
+                "wordSize": 1703,
+                "defaultSound": "US",
+                "fileSize": 101843,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/GU4TEMZTGNKG4RRTONGDOZRXIRNG6MKJGI4FS3DJGRYC6VRLOEXUI4KIGRSDA522NFHHSRRWNFSW6PJSHAZDAMY=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 98,
+                "targetId": 3,
+                "name": "托福必备高频词",
+                "simpleName": "根据近年来托福考试真题，分析单词考频，精选1446个必考词汇。",
+                "authorId": 1,
+                "description": "根据近年来托福考试真题，分析单词考频，精选1446个必考词汇。",
+                "description2": "根据近年来托福考试真题，分析单词考频，精选1446个必考词汇。",
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628100548_gaopin.png",
+                "imageSelected": "http://vocabulary.ileci.com/vocabulary/icon/100persent_white@2x.png",
+                "fileData": [
+                    {
+                        "fileSize": 1990976,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GU2DGMJZMRCEW4TPKNIFOWJSM4YDA23MGAYFS5LKINJFGS2EJVWFI5LUJ5ATE4TQJFMGIVDEGZTECPJUHE4DGNI=.dat?uid=10410209&vocabularyId=98&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 1991014,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GU2DGMJZMRCEW4TPKNIFOWJSM4YDA23MGAYFS5LKINJFGS2EJVWFI5LUJ5ATE4TQJFMGIVDEGZTECPJUHE4DGNI=.dat?uid=10410209&vocabularyId=98&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    },
+                    {
+                        "fileSize": 1992646,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/4/GU2DGMJZMRCEW4TPKNIFOWJSM4YDA23MGAYFS5LKINJFGS2EJVWFI5LUJ5ATE4TQJFMGIVDEGZTECPJUHE4DGNI=.dat?uid=10410209&vocabularyId=98&sequence=4",
+                        "fileCode": 4,
+                        "fileCodeName": "字母乱序"
+                    }
+                ],
+                "specialLabelData": [],
+                "ordinal": -8,
+                "wordSize": 1446,
+                "defaultSound": "US",
+                "fileSize": 80313,
+                "currentVersion": 1,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": "/vocabulary/v1/HA2TSNJWJJUUG4LQMVRXAUCONRLFCQLFNI3U6ODUKZVEKTRPGVDUO3DWKQYWGOBUNFNDERKXNB5GGPJSGYZTAOI=.dat",
+                "startPrice": null,
+                "sellPrice": null,
+                "orderState": null,
+                "freeState": 1,
+                "productName": null,
+                "productId": null,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 1,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 821,
+                "targetId": 3,
+                "name": "词以类记TOEFL iBT词汇",
+                "simpleName": "【词书内容】\r\n本书共收录约4150个核心词汇（包含150个新增词汇），是TOEFL历次考试中的高频词汇，是理解TOEFL文章和解决TOEFL iBT听力长文章的必备基础。\r\n\r\n【词书特色】\r\n1. 对历年托福考试题目进行计算机大数据统计，筛选出现频率高的约4150个核心词汇。\r\n2. 每个单词都给出托福常考释义。\r\n3. 重点词汇配有一个或多个例句，来源于国外专业词典，原汁原味。",
+                "authorId": 1,
+                "description": "【词书内容】\r\n本书共收录约4150个核心词汇（包含150个新增词汇），是TOEFL历次考试中的高频词汇，是理解TOEFL文章和解决TOEFL iBT听力长文章的必备基础。\r\n\r\n【词书特色】\r\n1. 对历年托福考试题目进行计算机大数据统计，筛选出现频率高的约4150个核心词汇。\r\n2. 每个单词都给出托福常考释义。\r\n3. 重点词汇配有一个或多个例句，来源于国外专业词典，原汁原味。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20200518111412_TOEFL.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2933716,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GU3DSOJSNVDUGWTIKJKFQVDDO4ZDK3DYN44XARJQIZIEERTWKRTWEVTXMZMDIU3IGBXXAU2PINLXOPJXGIYDONA=.dat?uid=10410209&vocabularyId=821&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -7,
+                "wordSize": 3670,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": null,
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】词以类记TOEFL iBT词汇",
+                "productId": 2001,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75193027100045004240",
+                "isEntityBook": "1",
+                "entityBookProductId": 3082,
+                "entityBookProductName": "【实体书版】词以类记TOEFL iBT词汇",
+                "entityBookSellPrice": "39",
+                "entityBookOrderState": null,
+                "bookStartPrice": "57",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 479,
+                "targetId": 3,
+                "name": "托福绿宝书乱序版",
+                "simpleName": "俞敏洪老师经典权威之作。\r\n\r\n【词书内容】\r\n1. 全面收录TOEFL考试核心词汇，精心甄选单词释义，提供大量经典例句，结合语境，加深考生对单词的理解与记忆，便于及时复习和巩固单词。\r\n2. 丰富的派生词，全面扩充词汇量；归纳常考搭配，深入学习单词的用法；补充TOEFL学科词汇，拓展词汇学习的深度和广度。\r\n3. 以“词根+联想”记忆法为主，辅以组合词、单词的拆分、谐音等多种记忆方法，在较大程度上提升单词记忆的趣味性和形象性，科学、有效地记忆单词。\r\n\r\n【词书特色】\r\n1. 全书单词乱序编排，重点词汇一网打尽，打破单词常规记忆模式，减少机械记忆，随时检验记忆成果，加深对词义语境的理解。\r\n2. 原汁原味例句，模拟考试语境，提供大量与TOEFL考试难度相当的例句，便于考生在记忆单词的同时掌握单词用法，熟悉考试难度，了解考查要点。   ",
+                "authorId": 1,
+                "description": "俞敏洪老师经典权威之作。\r\n\r\n【词书内容】\r\n1. 全面收录TOEFL考试核心词汇，精心甄选单词释义，提供大量经典例句，结合语境，加深考生对单词的理解与记忆，便于及时复习和巩固单词。\r\n2. 丰富的派生词，全面扩充词汇量；归纳常考搭配，深入学习单词的用法；补充TOEFL学科词汇，拓展词汇学习的深度和广度。\r\n3. 以“词根+联想”记忆法为主，辅以组合词、单词的拆分、谐音等多种记忆方法，在较大程度上提升单词记忆的趣味性和形象性，科学、有效地记忆单词。\r\n\r\n【词书特色】\r\n1. 全书单词乱序编排，重点词汇一网打尽，打破单词常规记忆模式，减少机械记忆，随时检验记忆成果，加深对词义语境的理解。\r\n2. 原汁原味例句，模拟考试语境，提供大量与TOEFL考试难度相当的例句，便于考生在记忆单词的同时掌握单词用法，熟悉考试难度，了解考查要点。   ",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20181213111533_《TOEFL词汇词根+联想记忆法(乱序版)》.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 3936381,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G42DONRXLFHG2L3SLBYHG6RWNZVFMVJQNYZGE2LVMFSG45KBHFIDST2TNBTWGTRWKFBEWTZWPFWDQPJTGY3DONY=.dat?uid=10410209&vocabularyId=479&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -6,
+                "wordSize": 4264,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@浙江教育出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "29.9",
+                "sellPrice": "25",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】托福绿宝书乱序版",
+                "productId": 1232,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536844400068006240",
+                "isEntityBook": "1",
+                "entityBookProductId": 3081,
+                "entityBookProductName": "【实体书版】托福绿宝书乱序版",
+                "entityBookSellPrice": "59",
+                "entityBookOrderState": null,
+                "bookStartPrice": "93",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 615,
+                "targetId": 3,
+                "name": "托福边词边题：基础版",
+                "simpleName": "杨丽轩，王屏非编著，俞敏洪推荐，选取托福TPO真题（1-53）的阅读和听力中出现的高中及四级部分重点单词和短语，适合英语基础薄弱的同学。\r\n\r\n【词书内容】\r\n托福考试必备基础词，收录2102个单词和短语，并按TPO真题顺序及行文顺序排列，可与进阶版配合使用。\r\n\r\n【词书特点】\r\n1. 单词全面：涵盖2102个阅读和听力单词和短语，涵盖托福考试中所有高中和四级级别的基础词汇\r\n2. 释义精准：结合考试语境，单词给出的释义均为考试考过释义，减少学生记忆负担\r\n3. 高效记忆法：涵盖词根词缀记忆，联想法，让背单词更高效\r\n4. 词频量化：列出了每个单词在TPO真题中出现的次数，便于有的放矢记忆单词\r\n5. 海量例句：单词的每一个释义均配有中英文例句，便于学生了解使用方法                                                       ",
+                "authorId": 1,
+                "description": "杨丽轩，王屏非编著，俞敏洪推荐，选取托福TPO真题（1-53）的阅读和听力中出现的高中及四级部分重点单词和短语，适合英语基础薄弱的同学。\r\n\r\n【词书内容】\r\n托福考试必备基础词，收录2102个单词和短语，并按TPO真题顺序及行文顺序排列，可与进阶版配合使用。\r\n\r\n【词书特点】\r\n1. 单词全面：涵盖2102个阅读和听力单词和短语，涵盖托福考试中所有高中和四级级别的基础词汇\r\n2. 释义精准：结合考试语境，单词给出的释义均为考试考过释义，减少学生记忆负担\r\n3. 高效记忆法：涵盖词根词缀记忆，联想法，让背单词更高效\r\n4. 词频量化：列出了每个单词在TPO真题中出现的次数，便于有的放矢记忆单词\r\n5. 海量例句：单词的每一个释义均配有中英文例句，便于学生了解使用方法                                                       ",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190424161726_托福词书封面基础版.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2309353,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GM4DKNRQKJYESZKLMNVFM33ZI53TORBWLEYTIMKHOBFUEQKUKJEHUMTONM4E6QRYN5MTOYLMNY4ECPJZGMZTOOI=.dat?uid=10410209&vocabularyId=615&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -5,
+                "wordSize": 2102,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@中国人民大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "托福边词边题：基础版",
+                "productId": 1427,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 617,
+                "targetId": 3,
+                "name": "托福边词边题：进阶版",
+                "simpleName": "杨丽轩，王屏非编著，俞敏洪推荐，选取托福TPO真题（1-53）的阅读和听力中出现的四级以上重点单词、短语和熟词僻义，覆盖考试单词率高达99%以上，适合四级以上水平同学。\r\n\r\n【词书内容】\r\n托福考试必备进阶词，收录5324个单词、短语和熟词僻义，并按TPO真题顺序及行文顺序排列。\r\n\r\n【词书特点】\r\n1. 单词全面：涵盖5324个阅读和听力单词、短语和熟词僻义，涵盖托福考试单词率高达99%以上\r\n2. 释义精准：结合考试语境，单词给出的释义均为考试考过释义，减少学生记忆负担\r\n3. 配合真题顺序：单词按照TPO真题中阅读和听力顺序排列，便于一边背单词一边做真题、节约备考时间\r\n4. 高效记忆法：涵盖词根词缀记忆，联想法，让背单词更高效\r\n5. 词频量化：列出了单词在TPO真题中出现的次数，便于有的放矢记忆单词\r\n6. 海量例句：单词的每一个释义均配有中英文例句，便于学生了解使用方法                                                   ",
+                "authorId": 1,
+                "description": "杨丽轩，王屏非编著，俞敏洪推荐，选取托福TPO真题（1-53）的阅读和听力中出现的四级以上重点单词、短语和熟词僻义，覆盖考试单词率高达99%以上，适合四级以上水平同学。\r\n\r\n【词书内容】\r\n托福考试必备进阶词，收录5324个单词、短语和熟词僻义，并按TPO真题顺序及行文顺序排列。\r\n\r\n【词书特点】\r\n1. 单词全面：涵盖5324个阅读和听力单词、短语和熟词僻义，涵盖托福考试单词率高达99%以上\r\n2. 释义精准：结合考试语境，单词给出的释义均为考试考过释义，减少学生记忆负担\r\n3. 配合真题顺序：单词按照TPO真题中阅读和听力顺序排列，便于一边背单词一边做真题、节约备考时间\r\n4. 高效记忆法：涵盖词根词缀记忆，联想法，让背单词更高效\r\n5. 词频量化：列出了单词在TPO真题中出现的次数，便于有的放矢记忆单词\r\n6. 海量例句：单词的每一个释义均配有中英文例句，便于学生了解使用方法                                                   ",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190428175903_托福词书封面进阶版.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 5021966,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GE3TCNBUNVFGK6KQNZWEYNKUJVSDSRZTNRJVO3LRGNMUC3SYOI3EWURYJ5ZFINJUIQ4UU6LLJBHGGPJRGU4DMMA=.dat?uid=10410209&vocabularyId=617&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -4,
+                "wordSize": 5324,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@中国人民大学出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "58.8",
+                "sellPrice": "45",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "托福边词边题：进阶版",
+                "productId": 1428,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 343,
+                "targetId": 3,
+                "name": "托福词汇一本通",
+                "simpleName": "北美留学考试一本通系列，匠心之作，收录进本书的每一个单词都源自实考或官方指定题源！\r\n\r\n【词书内容】\r\n1. 收录原书全部词汇和拓展词汇（近义词、反义词、派生词）\r\n2. 收录原书全部例句、搭配、辨析等\r\n\r\n【词书特色】\r\n1. 每个单词都源自实考或官方指定题源；\r\n2. 词汇兼顾难度与重要性；\r\n3. 考法更全，例句逻辑性更强；",
+                "authorId": 1,
+                "description": "北美留学考试一本通系列，匠心之作，收录进本书的每一个单词都源自实考或官方指定题源！\r\n\r\n【词书内容】\r\n1. 收录原书全部词汇和拓展词汇（近义词、反义词、派生词）\r\n2. 收录原书全部例句、搭配、辨析等\r\n\r\n【词书特色】\r\n1. 每个单词都源自实考或官方指定题源；\r\n2. 词汇兼顾难度与重要性；\r\n3. 考法更全，例句逻辑性更强；",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20180628100717_yibentong.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 2761469,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GUYTSMBZM54UGWKEMZWTOWKJKMXWOSRVGFIWO4KBKBGWS43SNN4VOQ3GKI3UORCGPJCEYMSCGU2VSPJVGM4TINQ=.dat?uid=10410209&vocabularyId=343&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 2758344,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/GIZDOMJWNZ4U2TTVI5XUYMTDHBVVUVCUFNWHOUSJJJ5GMMLZGZBDQYTFGFEEGQKWMNEXOZTIMFJU2PJXHAYDQNI=.dat?uid=10410209&vocabularyId=343&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 2758516,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/G4ZDEOBQKU2WG4LNNJBFKZCXI5CUCY3GMFHGET3KINHE4ZCWK5CE26BLMFMXCZSZKM4UIMTWNZTUSPJUGYYTSMQ=.dat?uid=10410209&vocabularyId=343&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -3,
+                "wordSize": 5520,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@上海译文出版社",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "托福词汇一本通",
+                "productId": 629,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 622,
+                "targetId": 3,
+                "name": "12天记牢托福听力1200词",
+                "simpleName": "新东方在线托福名师张仪老师基于多年教学经验，详细分析TPO1-55和近5年真题，按6类对话高频场景和16类必考\r\n\r\n根据最新考试趋势，结合几万次课堂词汇测试中的高频错词，精心提炼出1200个听力高分必背词汇，帮助考生记牢1200个听力学科词，得听力，得托福。",
+                "authorId": 1,
+                "description": "新东方在线托福名师张仪老师基于多年教学经验，详细分析TPO1-55和近5年真题，按6类对话高频场景和16类必考\r\n\r\n根据最新考试趋势，结合几万次课堂词汇测试中的高频错词，精心提炼出1200个听力高分必背词汇，帮助考生记牢1200个听力学科词，得听力，得托福。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190522092412_TOEFL1200listening.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 943490,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GA4DAMZYOJTUISTEOJRVMS2YKIXXQULMGJYHEWD2OBEC6TDVJZRXQZKLJZFGOZSQI5UHG6JSNI4DQPJRG42TSNQ=.dat?uid=10410209&vocabularyId=622&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": -2,
+                "wordSize": 1200,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "12天记牢托福听力1200词",
+                "productId": 1455,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 323,
+                "targetId": 3,
+                "name": "TOEFL佛脚词2017版",
+                "simpleName": "临时抱佛脚，阅读词汇题满分必备。由北京新东方北美研发中心出品，作者：刘娟。词表包含2010年-2017年7月词汇题，及50套TPO的词汇题，稳、准、快！为你的最后冲刺保驾护航。本词表将相同单词考察过的不同同义词选项进行合并归类，更利于记忆。",
+                "authorId": 1,
+                "description": "临时抱佛脚，阅读词汇题满分必备。由北京新东方北美研发中心出品，作者：刘娟。词表包含2010年-2017年7月词汇题，及50套TPO的词汇题，稳、准、快！为你的最后冲刺保驾护航。本词表将相同单词考察过的不同同义词选项进行合并归类，更利于记忆。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20181213111622_TOEFL佛脚词2017版.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1029674,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GQZDAMRTGUZUKM3JHBCUWQSUJFDHMMCLOVYUE53EGA4VASSCLBEDOY3BN5UG4R3RGU2VMTDEHBEE2PJVG44TSMI=.dat?uid=10410209&vocabularyId=323&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    },
+                    {
+                        "fileSize": 1028763,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/2/G44TGNRWNQ4HG4KGGZWG2V3HFNEEQS2LJUZWOQTGJVBCWMJUORWVE3LPLJRUQR3ZNJITMMCFKN3TQPJUGA2TQOI=.dat?uid=10410209&vocabularyId=323&sequence=2",
+                        "fileCode": 2,
+                        "fileCodeName": "字母正序"
+                    },
+                    {
+                        "fileSize": 1028699,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/3/GY3DKMJWNQ4HG4KGGZWG2V3HFNEEQS2LJUZWOQTGJVDFORKMK5YU4WSFO5JDENKMG5UTGUTKOVYUCPJSGIYTMOI=.dat?uid=10410209&vocabularyId=323&sequence=3",
+                        "fileCode": 3,
+                        "fileCodeName": "字母倒序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "视频版",
+                        "labelCode": 13
+                    }
+                ],
+                "ordinal": -1,
+                "wordSize": 1085,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方北京学校",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "50",
+                "sellPrice": "30",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "TOEFL佛脚词2017版",
+                "productId": 615,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 503,
+                "targetId": 3,
+                "name": "10天记牢托福听力必背场景词汇",
+                "simpleName": "新东方在线托福名师张仪老师基于TPO1-50和近5年真题，按对话6类高频场景和16类必考讲座学科，分类整理。根据最新考试趋势，和上万次真实课堂词汇测试中高频错词，精心提炼出502个听力核心必背词汇。搞定502词，拿下托福听力。\r\n",
+                "authorId": 1,
+                "description": "新东方在线托福名师张仪老师基于TPO1-50和近5年真题，按对话6类高频场景和16类必考讲座学科，分类整理。根据最新考试趋势，和上万次真实课堂词汇测试中高频错词，精心提炼出502个听力核心必背词汇。搞定502词，拿下托福听力。\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20181011093023_TOEFLtingli.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 371984,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GI2TGNJQJVTG6MCWNBFC6MRSOAZEGWKMM5FFGULTO5MVMNRUKI4EQ23NFNNGO4DSM5ZWYULHJRJXGPJVG44DAMI=.dat?uid=10410209&vocabularyId=503&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    },
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 0,
+                "wordSize": 502,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@乐词官方",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "19.9",
+                "sellPrice": "6",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "10天记牢托福听力必背场景词汇",
+                "productId": 1268,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 364,
+                "targetId": 3,
+                "name": "直通托福校园生活词汇",
+                "simpleName": "直通托福校园生活词汇来源于学术界广为认可的学习词表——New General Service Word List，该词表由Charles Browne博士、 Brent Culligan博士和Joseph Phillips所研发，从庞大的剑桥英语语料库中筛选出高频和通用词汇。根据语言学专家统计，New General Service Word List大致可以覆盖92%左右的通用语境文章，86%左右的学术背景文章。",
+                "authorId": 1,
+                "description": "直通托福校园生活词汇来源于学术界广为认可的学习词表——New General Service Word List，该词表由Charles Browne博士、 Brent Culligan博士和Joseph Phillips所研发，从庞大的剑桥英语语料库中筛选出高频和通用词汇。根据语言学专家统计，New General Service Word List大致可以覆盖92%左右的通用语境文章，86%左右的学术背景文章。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190618160228_xiaoyuan.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1333314,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GM2DGNBWJZVWETTLLFVHMUCSPFRDINCLKEZHURSOIZTEI53ZMRVFE32NJE4FSZLKKF2TGRLWJBAUSPJQGQ2TEMA=.dat?uid=10410209&vocabularyId=364&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    }
+                ],
+                "ordinal": 1,
+                "wordSize": 2473,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@国外考试推广管理中心托福项目",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "25",
+                "sellPrice": "18",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】直通托福校园生活词汇",
+                "productId": 1653,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536540900078005880",
+                "isEntityBook": "1",
+                "entityBookProductId": 3083,
+                "entityBookProductName": "【实体书版】直通托福校园生活词汇",
+                "entityBookSellPrice": "46",
+                "entityBookOrderState": null,
+                "bookStartPrice": "96",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 375,
+                "targetId": 3,
+                "name": "直通托福课堂学术词汇",
+                "simpleName": "新东方一线教研团队精心打造\r\n\r\n【词书内容】\r\n1. 从庞大的剑桥英语语料库当中筛选出的高频和通用词汇，由资深托福教师基于“新通用高频词表”和“新学术词汇词表”编写而成。\r\n2. 收录的960个高频学术词汇来源于“新学术词汇词表”，涵盖92%左右的学术文章、语料下的学科背景词汇。\r\n\r\n【词书特色】\r\n1. 词汇配备精准中英文释义，从真题中挑选句子进行改写作为例句，贴合托福真实考试场景。\r\n2. 资深托福教师基于“新通用高频词表”和“新学术词汇词表”编写，这两个词表被学术界广泛认可。",
+                "authorId": 1,
+                "description": "新东方一线教研团队精心打造\r\n\r\n【词书内容】\r\n1. 从庞大的剑桥英语语料库当中筛选出的高频和通用词汇，由资深托福教师基于“新通用高频词表”和“新学术词汇词表”编写而成。\r\n2. 收录的960个高频学术词汇来源于“新学术词汇词表”，涵盖92%左右的学术文章、语料下的学科背景词汇。\r\n\r\n【词书特色】\r\n1. 词汇配备精准中英文释义，从真题中挑选句子进行改写作为例句，贴合托福真实考试场景。\r\n2. 资深托福教师基于“新通用高频词表”和“新学术词汇词表”编写，这两个词表被学术界广泛认可。",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20190618160247_xueshu.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 636343,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/G44TGMJTOJEXS2LQKVVUE33LJJRUSRKQIFKEY6TJJRHXCMJWJFVUQ4KDPBZSWSRTO5HSWK2DNZFDIPJQGUZDQOI=.dat?uid=10410209&vocabularyId=375&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "独家",
+                        "labelCode": 11
+                    }
+                ],
+                "ordinal": 2,
+                "wordSize": 938,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": "每日学习量过大，建议您延长学习时间。"
+                    }
+                ],
+                "file": null,
+                "startPrice": "19.9",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "【电子书版】直通托福课堂学术词汇",
+                "productId": 1652,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "75536539700035002120",
+                "isEntityBook": "1",
+                "entityBookProductId": 3084,
+                "entityBookProductName": "【实体书版】直通托福课堂学术词汇",
+                "entityBookSellPrice": "28",
+                "entityBookOrderState": null,
+                "bookStartPrice": "47",
+                "isCollocation": 0,
+                "isUnit": 0,
+                "vocImgs": []
+            },
+            {
+                "vocabularyId": 1135,
+                "targetId": 3,
+                "name": "直通托福学科2000词",
+                "simpleName": "【词书内容】\r\n《直通托福 学科2000词》是“直通托福”系列中的学科词汇分册，全书分为45个单元，每个单元约50个单词，共收录2040个词汇。书中词汇基于托福考试中的四大学科（生命科学、艺术、自然科学、社会科学）进行分类，每个学科下细化学科内容如动物、植物、生理遗传、生态学等30余个。每个单词所匹配的例句是由新东方教育科技集团国际教育培训事业部和新东方一线教师从历年的听力和阅读真题中挑选句子进行改写而成，贴合托福考试的真实场景。\r\n\r\n【词书亮点】\r\n①选取历年听力、阅读中的高频词汇\r\n②涉及生命科学、艺术、自然科学、社会科学等四大学科\r\n③配有托福考试中常见的中文释义义\r\n④配有《韦氏大学英语词典》中的简易英文释\r\n⑤一线教师精心编写的例句\"\r\n",
+                "authorId": 1,
+                "description": "【词书内容】\r\n《直通托福 学科2000词》是“直通托福”系列中的学科词汇分册，全书分为45个单元，每个单元约50个单词，共收录2040个词汇。书中词汇基于托福考试中的四大学科（生命科学、艺术、自然科学、社会科学）进行分类，每个学科下细化学科内容如动物、植物、生理遗传、生态学等30余个。每个单词所匹配的例句是由新东方教育科技集团国际教育培训事业部和新东方一线教师从历年的听力和阅读真题中挑选句子进行改写而成，贴合托福考试的真实场景。\r\n\r\n【词书亮点】\r\n①选取历年听力、阅读中的高频词汇\r\n②涉及生命科学、艺术、自然科学、社会科学等四大学科\r\n③配有托福考试中常见的中文释义义\r\n④配有《韦氏大学英语词典》中的简易英文释\r\n⑤一线教师精心编写的例句\"\r\n",
+                "description2": null,
+                "image": "http://vocabulary.ileci.com/vocabulary/icon/20211231093952_20211203180810.png",
+                "imageSelected": null,
+                "fileData": [
+                    {
+                        "fileSize": 1499553,
+                        "fileAdress": "http://mapi.ileci.com/jsonp/vocabulary/download/vocabulary/v2/1/GU2DSOJRIZFFCNKRHFUXIY2BOBBDA6SGOVTHI3RZPF4TO3CDNZHXITKNJBKXCTZWIEZTK3SVGJZFSPJXGY3DAMQ=.dat?uid=10410209&vocabularyId=1135&sequence=1",
+                        "fileCode": 1,
+                        "fileCodeName": "原书词序"
+                    }
+                ],
+                "specialLabelData": [
+                    {
+                        "labelName": "最新",
+                        "labelCode": 15
+                    }
+                ],
+                "ordinal": 12,
+                "wordSize": 1993,
+                "defaultSound": "US",
+                "fileSize": null,
+                "currentVersion": null,
+                "source": "@新东方大愚",
+                "threshold": [
+                    {
+                        "day": 100,
+                        "desc": null
+                    }
+                ],
+                "file": null,
+                "startPrice": "20",
+                "sellPrice": "12",
+                "orderState": null,
+                "freeState": 0,
+                "productName": "直通托福学科2000词",
+                "productId": 3561,
+                "templateType": 0,
+                "tianmao": "",
+                "downloadTimeFlag": 0,
+                "downloadTime": null,
+                "entityBookNo": "",
+                "isEntityBook": "0",
+                "entityBookProductId": null,
+                "entityBookProductName": null,
+                "entityBookSellPrice": null,
+                "entityBookOrderState": null,
+                "bookStartPrice": null,
+                "isCollocation": 0,
+                "isUnit": 1,
+                "vocImgs": []
+            }
+        ],
+        "tagDes": "",
+        "androidgroupkey": "",
+        "prompt": "",
+        "iosgroupkey": ""
+    },
+    "temp": 0
+}
