@@ -38,4 +38,6 @@ Anki支持导入以`tab`分割的`txt`文件. 因此需要将获取到的单词�
 4. 部分单词因为书中将不同形态表示在一起导致海词接口搜索不到.
 
 ### Release
-release主要为anki的txt可导入文件, 另外附上制作词卡的所有已用单词数据库`所有词书单词.sql`.
+- `All_words.sql`: 所有查询自海词的单词数据库
+- `Anki_txt.zip`: 新东方词书对应的anki词卡, 可直接导入anki
+- `Leci_sqlite.zip`: 新东方词书sqlite数据库
